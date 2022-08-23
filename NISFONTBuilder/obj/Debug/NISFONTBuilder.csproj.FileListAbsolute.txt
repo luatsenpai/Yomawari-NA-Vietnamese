@@ -1,0 +1,11 @@
+C:\Users\Administrator\Downloads\yomawari-pc-translation-master\NISFONTBuilder\NISFONTBuilder\bin\Debug\x64\FreeImage.dll
+C:\Users\Administrator\Downloads\yomawari-pc-translation-master\NISFONTBuilder\NISFONTBuilder\bin\Debug\x64\freetype6.dll
+C:\Users\Administrator\Downloads\yomawari-pc-translation-master\NISFONTBuilder\NISFONTBuilder\bin\Debug\x86\FreeImage.dll
+C:\Users\Administrator\Downloads\yomawari-pc-translation-master\NISFONTBuilder\NISFONTBuilder\bin\Debug\x86\freetype6.dll
+C:\Users\Administrator\Downloads\yomawari-pc-translation-master\NISFONTBuilder\NISFONTBuilder\bin\Debug\FreeImageNET.dll
+C:\Users\Administrator\Downloads\yomawari-pc-translation-master\NISFONTBuilder\NISFONTBuilder\bin\Debug\SharpFont.dll
+C:\Users\Administrator\Downloads\yomawari-pc-translation-master\NISFONTBuilder\NISFONTBuilder\obj\Debug\NISFONTBuilder.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\yomawari-pc-translation-master\NISFONTBuilder\NISFONTBuilder\obj\Debug\NISFONTBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\yomawari-pc-translation-master\NISFONTBuilder\NISFONTBuilder\obj\Debug\NISFONTBuilder.csproj.CopyComplete
+C:\Users\Administrator\Downloads\yomawari-pc-translation-master\NISFONTBuilder\NISFONTBuilder\obj\Debug\NISFONTBuilder.exe
+C:\Users\Administrator\Downloads\yomawari-pc-translation-master\NISFONTBuilder\NISFONTBuilder\obj\Debug\NISFONTBuilder.pdb
