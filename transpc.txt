@@ -1,0 +1,1748 @@
+Yes
+No
+Quicksave completed.
+Give a coin to the Jizo Statue?
+You don't have a coin...
+Go outside?
+Are you sure?
+???
+Yomawari: Night Alone
+Save Data
+Saving...
+Save has been completed.
+Failed to save.
+?dKB required to save data.
+Unable to load due to corrupt data.
+Delete save data
+Deleting data...
+× Check
+Would you like to save?
+Save
+Cancel
+Delete save data?
+Please try saving again
+I offered a coin.
+found!
+Save clear data?
+Returning to title...
+Data will not be saved. Are you sure?
+A
+B
+X
+Y
+LB
+RB
+LT
+RT
+START
+BACK
+Button 1
+Button 2
+Button 3
+Button 4
+Button 5
+Button 6
+Button 7
+Button 8
+Button 9
+Button 10
+Button 11
+Button 12
+Button 13
+Button 14
+Button 15
+Button 16
+Button 17
+Button 18
+Button 19
+Button 20
+Button 21
+Button 22
+Button 23
+Button 24
+Button 25
+Button 26
+Button 27
+Button 28
+Button 29
+Button 30
+Button 31
+Button 32
+Pebble
+Coin
+Salt
+Shovel
+Match
+Doll
+Animal Feed
+Hard Candy
+Doodle Note
+Dull Eyeball
+Meat
+Torn Letter
+Unhappy Letter
+Secret Letter
+One-Eyed Daruma
+Headless Horse's Stirrup
+Curved Bone
+Flashlight
+Dry Tissue
+Bone-Shaped Gum
+Blackboard Eraser
+Origami Crane
+
+Secret Path Note
+
+Chicken Coop Key
+Pool Key
+Toy Bone
+
+Wet Bone
+Sis's Shoe
+Torn Swimsuit
+Knapsack
+Box Robot
+Abusive Note
+Red Exam Sheet
+Recorder
+Slippers
+Red Crayon Note
+
+West Salt
+East Salt
+North Salt
+South Salt
+North Key
+South Key
+Red Charm
+Red Trinket
+Paper Plane
+Plastic Camera
+Pair of Shoes
+Big Fang
+Cup Ramen
+Black Furball
+Yellow Crayon Note
+
+Soft Wood Board
+Yellow Note
+
+Black Note
+Muddy Key
+Broken Necklace
+Fingernail
+Torn Shirt
+Wet Hourglass
+Moldy Bread
+Torn Rope
+Moldy Note
+
+Rusty Small Key
+
+
+Front Gate Key
+Diary with Lock
+Ring of Beads
+Piece of Cloth
+Metal Pipe
+Factory Newspaper
+
+Torn Crayon Note
+
+Dirty Key
+Torn Collar
+Dead Bug
+Calling Card
+Warped Marble
+Broken Pencil
+Old Newspaper
+
+
+Blue Crayon Note
+
+
+
+
+
+
+
+
+
+Old Charm
+
+
+
+
+
+Black Crayon Note
+Worn-Out Crayons
+Toy Bone
+Dry Eyeball
+Eyepatch
+
+
+
+Mary Doll
+Voodoo Doll
+Japanese Doll
+Human Bone
+Big Bell
+Mummy
+Picture Book
+Radio
+Kid's Sandal
+Cigarette Butt
+Chicken Egg
+Unique Bottle
+Clacker
+Weird Puzzle
+Jagged 10
+Tsuchinoko
+Trophy
+Part 1
+Part 2
+Part 3
+Part 4
+Part 5
+Puzzle Piece 1
+Puzzle Piece 2
+Puzzle Piece 3
+Puzzle Piece 4
+Puzzle Piece 5
+Puzzle Piece 6
+Puzzle Piece 7
+Puzzle Piece 8
+Puzzle Piece 9
+Puzzle Piece 10
+Puzzle Piece 11
+Puzzle Piece 12
+Puzzle Piece 13
+Puzzle Piece 14
+Puzzle Piece 15
+Puzzle Piece 16
+Puzzle Piece 17
+Puzzle Piece 18
+Puzzle Piece 19
+Puzzle Piece 20
+A normal rock.
+If I throw it,
+spirits might
+react to it. It
+could be useful.
+Money. By saving
+up, I can shop,
+make an offering,
+and do lots more.
+
+White and
+smooth salt.
+Spirits don't
+like it.
+
+A small shovel
+that I found at
+the park. It's
+a toy, but it has
+nicked edges.
+Lighting this up
+might make things
+brighter, but I'm
+not supposed to
+play with matches.
+A voodoo doll
+Hanako gave me.
+If spirits see it,
+they'll attack it.
+
+A treat for pets
+that looks like a
+fish. If I give it
+to animals, they
+might like me.
+A gold, clear,
+candy that's as
+pretty as a jewel.
+It has a very,
+very sweet smell.
+It says the game
+won't stop till I
+give the Daruma
+doll a right eye.
+
+It's made of wood.
+The white part of
+the eye is dirty
+and yellow and it
+feels bumpy.
+It's kind of
+squishy, like
+meat. Sometimes
+it moves.
+
+It's all torn up,
+I can't read it!
+It's all dirty,
+too.
+
+I have to copy the
+letter and make
+someone read it or
+I'll be cursed!
+
+A letter that got
+sent to me. But
+there's nothing
+written inside.
+
+A toy that the
+Daruma from the
+park gave me. I
+put the eye in it.
+
+
+
+
+
+
+
+
+
+
+
+Sis dropped this.
+It fits right
+in my palm.
+
+
+It was left out in
+the sun and dried
+up. It hasn't
+rained in a long
+time.
+A bone-shaped
+dog treat.
+Poro loves it. It
+was hidden behind
+the doghouse.
+A blackboard
+eraser from
+school. How did it
+get out here?
+
+A tiny crane made
+out of paper.
+But it wasn't
+folded quite right
+so it looks funny.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A note in sloppy
+writing. It says
+there's a path
+by the Jizo Statue
+near the school.
+
+
+
+
+
+A key with a
+chicken on it. Did
+the person in
+charge drop it?
+
+There's a sticker
+that says @pool@
+on it. It's still
+warm from the hen
+sitting on it.
+
+
+
+
+
+
+
+
+
+
+A small bone
+that was stuck in
+the drain.
+Soft mold is
+growing on it.
+Sis's shoe that I
+found at school.
+It's got slobber
+from the human-
+faced dog on it.
+A girl's swimsuit
+that I found
+in the pool.
+It's torn up.
+
+It's a bag with
+straps. The
+shoulder strap
+is untied.
+
+A robot made out
+of snack boxes.
+It's posed to look
+like it's about
+to fly into space.
+@Stupid@...
+@Annoying@...
+@Disappear@...
+Somebody wrote a
+mean note on here.
+An exam sheet with
+a lot of mistakes.
+It was balled up
+and thrown out.
+
+A brown recorder.
+I can't play it
+well, but Sis is
+really good
+at playing it.
+Cloth shoes that
+I wear in school.
+It's slippery on
+rainy days, so I
+fall down a lot.
+@Mom won't come
+back home. Where
+did she go at this
+hour?@ That's what
+the note says.
+
+
+
+
+
+Smooth salt. The
+centipede spirit
+asked me to put it
+in places around
+town as a favor.
+Smooth salt. The
+centipede spirit
+asked me to put it
+in places around
+town as a favor.
+Smooth salt. The
+centipede spirit
+asked me to put it
+in places around
+town as a favor.
+Smooth salt. The
+centipede spirit
+asked me to put it
+in places around
+town as a favor.
+Key to the North
+fence downtown.
+It's greasy and
+very sticky.
+
+Key to the South
+fence downtown.
+It's kinda bent. I
+hope I can use it.
+
+An old charm with
+pretty colors.
+It has an arch
+and a centipede
+mark on it.
+A charm that
+has a centipede
+mark on it. The
+bright red color
+hasn't faded.
+Made out of an ad
+from a market.
+I wonder where
+it flew here from.
+
+It's a simple,
+throwaway camera.
+
+
+
+A grown-up's shoes
+placed neatly
+together. I wonder
+who put them here.
+
+A great big fang
+that's for sure
+not from a human.
+Did a spirit
+lose its tooth?
+An opened cup of
+noodles that was
+lying on the road.
+It's steaming and
+looks really warm.
+A furball that
+looks like a knot
+of human hair.
+It's as big as
+my head!
+@Mom was taken
+by that spirit...
+I have to save
+her.@ That's what's
+written on it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Part of a wooden
+board. It's soft
+from being left
+outside. It looks
+dangerous...
+
+
+
+
+
+
+
+
+
+
+A smudged note
+that says, @give
+it back, give it
+back.@ I wonder
+who it was for.
+A key I found in
+the field. I can't
+get the smell of
+dirt off of it.
+
+A silver necklace
+I found on a path.
+It's rusty and
+torn, but still
+shining.
+A long nail with
+light red nail
+polish on it.
+It was buried
+in the dirt.
+An old shirt that
+was balled up on
+the street. It's
+all sun faded and
+beat up.
+An hourglass with
+pink sand in it.
+It's wet, so the
+sand doesn't move
+if you flip it.
+Rock hard, but it
+has a soft mold
+growing on it.
+I don't feel like
+eating it.
+A very old and
+beat-up rope.
+It's torn, so
+it's shorter.
+
+In shaky letters
+it says, @where is
+it, give it back,
+where is it,
+give it back...@
+
+
+
+
+
+A rusty key that
+I got at the
+factory. I can
+barely tell that
+it says @chimney.@
+
+
+
+
+
+
+
+
+
+
+A key from deep
+in the factory.
+It has a strap
+with the name of
+the factory on it.
+I found this, but
+I don't know the
+code to open it.
+It's probably been
+locked a long time.
+A ring made out of
+beads and string.
+It fits perfectly
+on my finger.
+
+A piece of cloth
+that had an anime
+character on it.
+It's been ripped
+all over.
+Maybe I could
+use this on the
+spirits. But I'm
+not really that
+strong...
+It's an article
+from when this
+factory was still
+open. There's a
+picture of metal.
+
+
+
+
+
+It's torn, but
+this part says more
+hand spirits show
+up the deeper you
+go in the tunnel...
+
+
+
+
+
+A key I found by
+the entrance to
+the woods. For
+some reason, it's
+very cold.
+Part of a collar.
+It was freshly
+washed, but it
+still has Poro's
+smell on it.
+A little, dead bug.
+It's cold and
+hard. But, it's
+still pretty and
+shiny and green.
+I need this to
+use the pay phone,
+but I've never
+done that before.
+
+It's a marble, but
+the glass is
+chipped and it
+isn't round, so
+it won't roll.
+The middle part is
+broken and the
+lead is sticking
+out. But I'll
+still use it.
+An old newspaper.
+There's an article
+about a festival
+worshipping the
+nearby mountain.
+
+
+
+
+
+
+
+
+
+
+@I've been looking,
+but I can't find
+you. Are you gone
+forever? Please...@
+Is what it says.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A charm that Sis
+always kept close
+to her. When I
+hold it, it feels
+warm somehow.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An old note. It
+says the kidnapped
+will be taken to
+the other side of
+the tunnel.
+A used set of
+crayons that got
+really small.
+Some are broken
+and worn out.
+A dog toy in the
+shape of a bone.
+Poro's favorite.
+
+
+A round and shiny
+candy ball. It's
+dry, but it looks
+like it's alive
+and staring at me.
+I use it to hide
+the hole where my
+eye was. I can't
+see anymore, but
+I saved Sis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The doll's name
+is Mary. She
+gets lonely and
+jealous easily.
+
+
+
+
+
+
+A doll with pretty
+black hair. 
+Sometimes it looks
+like it's staring
+into me.
+Someone that was
+buried in the
+ground. He looked
+sad, so I snuck
+him out.
+I found this at
+the vacant lot. It
+makes a really
+loud noise when I
+kick it.
+A small mummy.
+It has a beak and
+it also has fins.
+I want to see the
+original form.
+A book about a
+girl and a spirit
+who lives under
+her bed. They're
+smiling together.
+Sis fixed it with
+the parts I
+collected.
+A machine that
+plays music.
+A kid's small,
+pink sandal. It
+makes a funny
+noise when I step
+on it.
+You're allowed to
+smoke when you're
+a grown-up. But you
+always have to throw
+the butt away.
+An egg that the
+hen at school
+laid. I hope a
+chick hatches
+soon!
+A weird bottle.
+The color, shape,
+and the marble
+inside makes me
+feel nice, though.
+If I keep on
+hitting it, it
+makes me kinda
+happy.
+
+The puzzle pieces
+made a box. Seems
+like something was
+supposed to
+happen.
+A special coin
+with ridged
+edges. It's rare,
+so I don't want
+to use it.
+A funny little
+thing with a wide
+body. It's cute,
+so I think I'll
+keep it as a pet.
+A shiny reward
+for me, who's
+doing her best.
+Congratulations.
+Thank you.
+A mechanical part
+I've never seen
+before. Do I get
+a bunch of them to
+build something?
+A mechanical part
+I've never seen
+before. Do I get
+a bunch of them to
+build something?
+A mechanical part
+I've never seen
+before. Do I get
+a bunch of them to
+build something?
+A mechanical part
+I've never seen
+before. Do I get
+a bunch of them to
+build something?
+A mechanical part
+I've never seen
+before. Do I get
+a bunch of them to
+build something?
+A 3D puzzle
+piece. Let's find
+them all and
+build the puzzle!
+
+A 3D puzzle
+piece. Let's find
+them all and
+build the puzzle!
+
+A 3D puzzle
+piece. Let's find
+them all and
+build the puzzle!
+
+A 3D puzzle
+piece. Let's find
+them all and
+build the puzzle!
+
+A 3D puzzle
+piece. Let's find
+them all and
+build the puzzle!
+
+A 3D puzzle
+piece. Let's find
+them all and
+build the puzzle!
+
+A 3D puzzle
+piece. Let's find
+them all and
+build the puzzle!
+
+A 3D puzzle
+piece. Let's find
+them all and
+build the puzzle!
+
+A 3D puzzle
+piece. Let's find
+them all and
+build the puzzle!
+
+A 3D puzzle
+piece. Let's find
+them all and
+build the puzzle!
+
+A 3D puzzle
+piece. Let's find
+them all and
+build the puzzle!
+
+A 3D puzzle
+piece. Let's find
+them all and
+build the puzzle!
+
+A 3D puzzle
+piece. Let's find
+them all and
+build the puzzle!
+
+A 3D puzzle
+piece. Let's find
+them all and
+build the puzzle!
+
+A 3D puzzle
+piece. Let's find
+them all and
+build the puzzle!
+
+A 3D puzzle
+piece. Let's find
+them all and
+build the puzzle!
+
+A 3D puzzle
+piece. Let's find
+them all and
+build the puzzle!
+
+A 3D puzzle
+piece. Let's find
+them all and
+build the puzzle!
+
+A 3D puzzle
+piece. Let's find
+them all and
+build the puzzle!
+
+A 3D puzzle
+piece. Let's find
+them all and
+build the puzzle!
+
+
+
+
+
+
+
+
+
+
+
+
+
+There have been multiple noise
+complaints filed for barking dogs.
+It is the responsibility of the pet's
+owner to properly train their animal.
+There have been multiple noise
+complaints filed for barking dogs.
+It is the responsibility of the pet's
+owner to properly train their animal.
+There's a small note here...
+@This town was once so alive, but
+now it's just going to rust.@
+Please do not throw rocks in the pond.
+Please do not throw rocks in the pond.
+Episode 1 Bulletin Board Depth Check 2
+It's a swing.
+I shouldn't swing by myself. I might fall.
+It's a swing.
+I shouldn't swing by myself. I might fall.
+It's a swing.
+I shouldn't swing by myself. I might fall.
+It's an old slide.
+It wobbles when I play on it.
+It's an old slide.
+It wobbles when I play on it.
+It's an old slide.
+It wobbles when I play on it.
+It's a dog house.
+Poro isn't inside right now.
+Poro...
+It's a dog house.
+Poro isn't inside right now.
+Poro...
+It's a dog house.
+Poro isn't inside right now.
+Poro...
+A young woman has gone
+missing near the North pass
+of the rice fields.
+...
+...Ah!
+There's a scribble on the corner!
+@The Jizo Statue near the school pool.
+There is a secret path by the
+short tree nearby.
+Hide the path with leaves behind you!@
+A young woman has gone
+missing near the North pass
+of the rice fields.
+...
+...Ah!
+There's a scribble on the corner!
+@The Jizo Statue near the school pool.
+There is a secret path by the
+short tree nearby.
+Hide the path with leaves behind you!@
+...Ah!
+There's a scribble on the corner!
+@The Jizo Statue near the school pool.
+There is a secret path by the
+short tree nearby.
+Hide the path with leaves behind you!@
+The keys to the pool and the keys to
+the chicken coop are missing.
+The student who has them should
+return them to the office.
+The keys to the pool and the keys to
+the chicken coop are missing.
+The student who has them should
+return them to the office.
+@Long ago, a girl went
+missing in the school pool.
+Everyone looked for her, but they
+didn't even find a single hair.
+Legend has it, she's still in the
+pool, trying to get out.
+Because of her, the pool turns
+red at midnight.@
+@The Jizo Statue near the school pool.
+There is a secret path by the
+short tree near it. But remember to
+hide the path with leaves behind you.@
+@The Jizo Statue near the school pool.
+There is a secret path by the
+short tree near it. But remember to
+hide the path with leaves behind you.@
+Up ahead... Chicken Coop.
+Left... Dumpster. Right... Pool.
+Up ahead... Chicken Coop.
+Left... Dumpster. Right... Pool.
+The Dumpster is up ahead.
+
+You can find a lot of
+stuff at the dump.
+It's dangerous, so
+I shouldn't run in there.
+The Dumpster is up ahead.
+
+You can find a lot of
+stuff at the dump.
+It's dangerous, so
+I shouldn't run in there.
+There's messy, small
+handwriting in the corner.
+Let's read it!
+
+@I dropped the key to
+the Chicken Coop at the Dumpster!
+I didn't do it on purpose...@
+A tent made out of cardboard.
+It looks like it's gonna fall over.
+I wonder who made it.
+A tent made out of cardboard.
+It looks like it's gonna fall over.
+I wonder who made it.
+A tent made out of cardboard.
+It looks like it's gonna fall over.
+I wonder who made it.
+The biggest cherry tree in school.
+People say someone's buried under it,
+and someone hanged themselves on it,
+and it'll start bleeding if you cut it.
+There are tons of
+rumors about it.
+The biggest cherry tree in school.
+People say someone's buried under it,
+and someone hanged themselves on it,
+and it'll start bleeding if you cut it.
+There are tons of
+rumors about it.
+The biggest cherry tree in school.
+People say someone's buried under it,
+and someone hanged themselves on it,
+and it'll start bleeding if you cut it.
+There are tons of
+rumors about it.
+Hm?
+There's something buried under here...
+...Ah, it's a time capsule!
+...I'll put this back where it belongs.
+Hm?
+There's something buried under here...
+...Ah, it's a time capsule!
+...I'll put this back where it belongs.
+Hm?
+There's something buried under here...
+...Ah, it's a time capsule!
+...I'll put this back where it belongs.
+The incinerator is
+no longer in use.
+The door is closed
+and locked.
+The incinerator is
+no longer in use.
+The door is closed
+and locked.
+The incinerator is
+no longer in use.
+The door is closed
+and locked.
+Shopping mall coming soon!
+We advise residents in the downtown
+area to relocate for construction.
+Shopping mall coming soon!
+We advise residents in the downtown
+area to relocate for construction.
+Shopping mall coming soon!
+We advise residents in the downtown
+area to relocate for construction.
+A note on the closed shutter
+says they'll be right back.
+But I've never seen this
+store open in my whole life.
+A note on the closed shutter
+says they'll be right back.
+But I've never seen this
+store open in my whole life.
+A note on the closed shutter
+says they'll be right back.
+But I've never seen this
+store open in my whole life.
+This shutter is always
+closed, even during the day.
+Did it rust because no one
+opens it at all?
+This shutter is always
+closed, even during the day.
+Did it rust because no one
+opens it at all?
+The shutter is closed during the day.
+The shutter is closed during the day.
+Did it rust because no one
+opens it at all?
+The big shutter is down.
+It wouldn't be open at night.
+The big shutter is down.
+It wouldn't be open at night.
+The big shutter is down.
+It wouldn't be open at night.
+A young woman has gone
+missing near the North pass
+of the rice fields.
+
+Those with any information, please
+contact the number below.
+A young woman has gone
+missing near the North pass
+of the rice fields.
+
+Those with any information, please
+contact the number below.
+There is a small note here.
+...Let's read it.
+@The old man who got run over by a car
+a year ago was headed to the shrine.
+The car crushed him completely.
+There are marks on the guard rail.
+Rumor is, the old man is still where
+that accident happened, waiting...@
+WARNING
+CLIFFS AHEAD
+WARNING
+CLIFFS AHEAD
+...There's nothing on here.
+A young woman
+has gone missing.
+It is possible that
+she fell off the cliff.
+The search has been put
+on hold due to landslides.
+A young woman
+has gone missing.
+It is possible that
+she fell off the cliff.
+The search has been put
+on hold due to landslides.
+...There's nothing on here.
+A young woman
+has gone missing.
+The search has been put on hold.
+
+It is possible that
+she fell off the cliff.
+It has been determined that continuing
+the search would be too dangerous.
+Rescue efforts have been suspended.
+A young woman
+has gone missing.
+The search has been put on hold.
+
+It is possible that
+she fell off the cliff.
+It has been determined that continuing
+the search would be too dangerous.
+Rescue efforts have been suspended.
+M U    R  D E    R
+I see my town. But I can't see the sky.
+It's too dark to see the moon or stars.
+I see the factory chimney way off...
+I see my town. But I can't see the sky.
+It's too dark to see the moon or stars.
+I see the factory chimney way off...
+I see my town. But I can't see the sky.
+It's too dark to see the moon or stars.
+I see the factory chimney way off...
+It's a pretty pond, but it's dark
+now so I can't really see anything.
+It's really scary...
+It's a pretty pond, but it's dark
+now so I can't really see anything.
+It's really scary...
+It's a pretty pond, but it's dark
+now so I can't really see anything.
+It's really scary...
+There have been numerous reports
+of missing children.
+All guardians: please do not
+leave your children unattended.
+Please do not allow your
+children outside after dark.
+There have been numerous reports
+of missing children.
+All guardians: please do not
+leave your children unattended.
+Please do not allow your
+children outside after dark.
+There's an old note
+scribbled down...
+@Mr. Yomawari catches naughty kids
+
+who don't sleep at night and
+takes them away stuffed in a bag.
+Mr. Yomawari is
+lurking around this town
+in search of naughty kids.@
+
+
+
+There's a flashy poster.
+
+It's a picture of
+a blue penguin dancing.
+I wonder what this is advertising...
+There's a flashy poster.
+
+It's a picture of
+a blue penguin dancing.
+I wonder what this is advertising...
+There's a flashy poster.
+
+It's a picture of
+a blue penguin dancing.
+A vending machine.
+I'm not thirsty right now...
+A vending machine.
+I'm not thirsty right now...
+A vending machine.
+I'm not thirsty right now...
+There's an ad from a store I don't
+know. The paper is soggy... Maybe
+it's wet from the rain.
+There's an ad from a store I don't
+know. The paper is soggy... Maybe
+it's wet from the rain.
+There's an ad from a store I don't
+know. The paper is soggy... Maybe
+it's wet from the rain.
+A bright red postbox.
+I never sent mail, so
+I've never used it before.
+A bright red postbox.
+I never sent mail, so
+I've never used it before.
+A bright red postbox.
+I never sent mail, so
+I've never used it before.
+Looks like I can't go past here...
+Looks like I can't go past here...
+Looks like I can't go past here...
+I'm Miss Mary.
+I'm right behind you.
+Which side do I put the eye in?
+Right
+Left
+Looks like you can dig here.
+You need a shovel to dig...
+Maybe there's one at the sandbox.
+Looks like you can put something here.
+A hole in the fence behind the tree!
+I can go inside from here!
+A door to the pool.
+Do you want to use the key to the pool?
+Door unlocked.
+It's a drainpipe.
+Could the pool be what the
+table-turning was talking about?
+Drain the pool and check the bottom?
+It's a drain.
+Ah! There's something stuck in there!
+Grab it?
+You picked up a shredded swimsuit.
+Looks like it's locked.
+The lock opened!
+I can't go past this.
+Let's keep playing.
+Thanks.
+Move to a different Jizo Statue?
+It's an old, small shrine...
+No one takes care of it and
+it's run down.
+was placed in the postbox.
+Ah, looks like I dropped
+the dull eyeball...
+Yay!
+Now I have all the puzzle pieces!
+Listen to music on the radio?
+I can't use this...
+I've been walking around the town
+looking for the puzzle pieces, so
+I finally finished my map!
+This thing won't work here...
+Your left eye... Does it hurt?
+I'm sorry, you did that for me...
+...Thanks for helping me.
+You pick up a lot of stuff...
+Don't take anything that's not yours.
+You're going out again?
+Come home soon. I worry about you...
+Should I buy some new shoes...?
+I feel a presence when
+I'm in this room.
+I wonder who it is...
+It doesn't seem evil...
+I wonder what it's doing here...
+Why does this town have so
+many spirits...?
+That lady who went missing in the
+rice field turned up dead...
+I heard her corpse was found and
+sent back to her family.
+They arrested the murderer, too.
+It's kinda relieving...
+The mountain spirit that took me
+away was supposed to be a god once...
+Everyone in the town praised it.
+But, why did it kidnap me...?
+I don't have to be scared
+of that spirit anymore...?
+Downtown is going to be totally
+bulldozed before winter.
+...Huh? Will the shrine downtown
+be taken down too?
+Yeah, looks like the shrine is
+going to be taken down too...
+It's sad without Poro...
+Poro wasn't mad, right?
+He's probably waiting for us in heaven,
+so let's play with him when we get there.
+Take care. Go...
+You've got so many parts now.
+If you get it repaired, it seems like
+it could work... What do you wanna do?
+Alright.
+Okay, it'll be fixed by tomorrow.
+It's been fixed!
+Those were parts to the radio.
+See, it's over there.
+All the parts I had made a radio!
+Night Town.
+Sis went out to go look for Poro,
+who ran away.
+But, Sis didn't come back either...
+I decided to go out there myself and
+search for Poro and Sis.
+They shouldn't be that far away.
+Sis's shoe.
+I remember her putting this on. She
+wore this on the day she left.
+Is she only wearing one shoe right now?
+I have no clue where Sis went, but
+I have to find her.
+I should start at the rice fields...
+Alone.
+Why are all the spirits scaring me?
+I just want to see my Sis.
+I'm sad because I can't be with her.
+...But, the spirits that have died
+must be lonely, too...
+I should be a little nicer to them.
+I buried Poro.
+Poro died because of me.
+I couldn't tell Sis about him.
+If I didn't throw the rock,
+if I was able to tell my Sis...
+What should I do? What should I do...?
+Sis, will you be okay?
+About the spirits.
+I found so many scary things in town.
+How many more times will I have
+to be so afraid?
+Will it be even scarier than ever?
+But, I think Sis dying is more
+scary than anything.
+The Night Walker.
+Sis told me she was kidnapped by the
+spirit that walks around town at night.
+Sis held her charm so tight that
+it's all worn out.
+But, if I hold it tight enough,
+it makes my feelings warm.
+Night Alone.
+The night is coming to town.
+It will come even if Sis isn't here,
+or Poro, or even if
+I'm not here.
+The night will come, and the morning
+will follow, then the night again.
+
+
+
+
+
+
+
+LH
+LEAD
+Find Sis.
+Go back home.
+Find Sis and Poro.
+Look for a secret path to the school.
+Follow Poro.
+Get Sis's shoe from the human-faced dog.
+Search the rice fields.
+Follow Poro.
+Search downtown.
+Search for an exit.
+Place the salt back where it was.
+Talk to the centipede spirit.
+Search for a way to get outside.
+Go toward the tunnel.
+Find Sis.
+Search the town.
+Help Sis!
+...Poro, l-let's go back...
+We're going, Poro.
+Use the directional buttons to move.
+Let's not go that way...
+Hold the $5 to run.
+Hold the $6 to tiptoe.
+If she sees an interactable object, a
+? will appear on top of her head.
+When you get close to the object,
+the ? will turn into an !.
+Press $2 while
+! is shown to perform the action.
+Hey, a pebble!
+The action will change depending
+on what you interact with.
+You can interact with many things.
+Press $4 to select an item.
+Confirm with $2, $4, $3, or $1.
+Press $3 to use the item.
+Where's Poro...?
+Did Poro run away!?
+I'll go look for him!
+Stay here.
+I'll be right back.
+Okay? It's a promise.
+I'll be just fine,
+I'll find him on my own.
+Sis... It's getting late...
+I'm gonna go look for her!
+Welcome back... Huh?
+!!!
+You scared me! Did you come looking for me?
+...
+...Come here.
+Hide in these bushes,
+close your eyes, and
+do *not* open them
+no matter what happens.
+Do *NOT* open them!
+Do you understand?
+...Sis?
+
+Press $2.
+...Sis?
+Did you come looking for me?
+Is this...Sis's...?
+Let me turn the lights on...
+Found a flashlight.
+It's a Jizo Statue...
+If you offer a coin to the Jizo Statue,
+Is there anything I can offer...?
+you can quicksave.
+I'll give the Jizo Statue an offering.
+Sis?
+Sis...
+Sis isn't here...
+Pick up the pebble.
+Did Sis go home already?
+Let's go home.
+Open the map with $7.
+Ah!
+...Poro!?
+This doesn't open...
+Can I get inside
+somewhere else?
+I should look around a bit.
+It's Sis's shoe...
+But why is it here?
+...That wasn't Poro.
+Ah!
+I forgot about
+Sis's shoe!
+I have to go get it!
+
+
+Maybe I can distract it with something.
+It didn't like what I put there...
+What should I put there?
+It took the wet bone!
+It's gone...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Looks like it's locked...
+The lock opened!
+It won't open.
+It's Sis's shoe...
+To SAVE your progress,
+you must save at the DESK.
+I have to run...
+Is that a phone ringing...?
+D-Don't eat me!
+A phone is ringing again...
+...Th-That was scary...
+...Huh? When did I get
+salt in my hand?
+Maybe it means I'm supposed to put it
+back where it was in the first place.
+I put all the salt in the right spots.
+I should go tell that
+to the centipede spirit.
+The centipede spirit isn't here...
+It wasn't such a bad spirit...
+...Poro?
+I hear a dog barking!
+It might be Poro!
+It's Poro's collar...
+I'm sorry, Poro...
+...It's Poro!
+Poro, wake up!
+Wake up, wake up!
+...Wake up...
+Poro, let's go home...
+Poro, please wake up...
+Poro...
+...
+...Where am I?
+...I have to find the exit.
+...It won't open.
+It's a big container...
+Maybe I can hide inside it.
+There's a lock, I can't get it open.
+Used the Rusty Small Key.
+The spirit from the mountain...
+This is...
+Sis's charm...
+...Sis...
+There's something on the other side,
+but the bridge is broken...
+Can I get over there with something?
+Picked up the Black Note.
+Let's read the note.
+It's gonna kill me, help me, help!!!
+Help, help, help, help, help, help!!!
+...Why do *I* have to die?
+HELP ME HELP ME PLEASE
+There's something wrong
+with the flashlight...
+The flashlight is
+back to normal now.
+...?
+This is...
+Put the Necklace down.
+It's so foggy...
+I shouldn't go in there right now...
+A little shrine...
+Huh?
+Sis's charm is glowing!
+Maybe I should lift it up...
+It's so foggy...
+I shouldn't go in there right now...
+Sis is just past here...
+Sis!
+Sis?
+...Sis...
+Don't die,
+Sis.
+...
+...Hm...?
+Sis!!!
+Are you okay!?
+I came to look for you!
+Let's go home...
+...Sis...
+I was so scared...
+...I was so lonely, Sis...
+...Let's go home together, please...
+Huh...?
+Uh...
+What is this? It feels weird...
+Uh...
+...It's so dark.
+...Like midnight.
+Light... I have to turn the light on...
+It's dark, I can't see anything...
+...
+...
