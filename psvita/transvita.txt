@@ -1,124 +1,122 @@
-Yes
-No
-Quicksave completed.
-Give a coin to the Jizo Statue?
-You don't have a coin...
-Go outside?
-Are you sure?
-???
-Yomawari: Night Alone
-Save Data
-Saving...
-Save has been completed.
-Failed to save.
-?dKB required to save data.
-Unable to load due to corrupt data.
-Delete save data
-Deleting data...
-× Check
-Would you like to save?
-Save
-Cancel
-Delete save data?
-Please try saving again
-I offered a coin.
-found!
-Save clear data?
-Returning to title...
-Data will not be saved. Are you sure?
-Pebble
-Coin
-Salt
-Shovel
-Match
-Doll
-Animal Feed
-Hard Candy
-Doodle Note
-Dull Eyeball
-Meat
-Torn Letter
-Unhappy Letter
-Secret Letter
-One-Eyed Daruma
-Headless Horse's Stirrup
-Curved Bone
-Flashlight
-Dry Tissue
-Bone-Shaped Gum
-Blackboard Eraser
-Origami Crane
+Có
+Không
+Lưu nhanh hoàn thành
+Đưa đồng 10 yên cho tượng Jizo?
+Không có đồng 10 yên...
+Ra ngoài?
+Bạn chắc chứ?
+?????
+Yomawari Đêm Đơn Độc
+Lưu dữ liệu
+Đang lưu...
+Đã lưu
+Lưu thất bại
+Cần dung lượng trống khoảng %d KB để lưu dữ liệu
+Không thể nạp dữ liệu lưu vì dữ liệu đã hỏng
+Xóa dữ liệu lưu
+Xóa dữ liệu
+× Xác Nhận
+Bạn muốn lưu chứ?
+Lưu
+Hủy
+Bạn muốn xóa dữ liệu đã lưu?
+Vui lòng thử lưu lại
+Tôi cần đồng 10 yên
+tìm thấy
+Bạn muốn xóa dữ liệu lưu?
+Trở về menu chính
+Dữ liệu sẽ không được lưu, bạn chắc chứ?
+Đá cuội
+10 Yên
+Muối
+Xẻng
+Diêm
+Búp Bê
+Thức Ăn Thú
+Kẹo Cứng
+Ghi Chú Vẽ Tay
+Nhãn Cầu Yếu
+Thịt
+Thư Rách
+Thư Buồn
+Thư Bí Mật
+Daruma 1 mắt
+Ngựa Không Đầu
+Xương Cong
+Đèn Pin
+Khăn Giấy Khô
+Sinh gum hình xương
+Đồ lau bảng
+Hạc Giấy
 
-Secret Path Note
+Ghi chú bí ẩn
 
-Chicken Coop Key
-Pool Key
-Toy Bone
+Chìa Khóa Chuồng Gà
+Chìa Khóa Hồ Bơi
+Xương Đồ Chơi
 
-Wet Bone
-Sis's Shoe
-Torn Swimsuit
-Knapsack
-Box Robot
-Abusive Note
-Red Exam Sheet
-Recorder
-Slippers
-Red Crayon Note
+Xương Ướt
+Giày Của Chị
+Đồ Bơi Rách
+Túi Xếp
+Rô Bốt Bằng Hộp
+Giấy Nói Xấu
+Bảng Kiểm Tra Đỏ
+Sáo Recorder
+Dép Lê
+Note bút sáp đỏ
 
-West Salt
-East Salt
-North Salt
-South Salt
-North Key
-South Key
-Red Charm
-Red Trinket
-Paper Plane
-Plastic Camera
-Pair of Shoes
-Big Fang
-Cup Ramen
-Black Furball
-Yellow Crayon Note
+Muối Tây
+Muối Đông
+Muối Bắc
+Muối Nam
+Chìa Khóa Bắc
+Chìa Khóa Nam
+Bùa Đỏ
+Trang Sức Đỏ
+Máy Bay Giấy
+Máy Ảnh 1 Lần
+Đôi giày
+Nanh Lớn
+Mỳ Ly
+Cầu Lông Đen
+Note bút sáp vàng
 
-Soft Wood Board
-Yellow Note
+Bảng Gỗ Mềm
+Ghi Chú Màu Vàng
 
-Black Note
-Muddy Key
-Broken Necklace
-Fingernail
-Torn Shirt
-Wet Hourglass
-Moldy Bread
-Torn Rope
-Moldy Note
+Ghi Chú Màu Đen
+Chìa Khóa Dính Bùn
+Dây Chuyền Hỏng
+Móng Tay
+Áo Sơ Mi Rách
+Đồng Hồ Cát Ướt
+Bánh Mỳ Mốc
+Dây Thừng Sờn
+Ghi Chú Bị Mốc
 
-Rusty Small Key
-
-
-Front Gate Key
-Diary with Lock
-Ring of Beads
-Piece of Cloth
-Metal Pipe
-Factory Newspaper
-
-Torn Crayon Note
-
-Dirty Key
-Torn Collar
-Dead Bug
-Calling Card
-Warped Marble
-Broken Pencil
-Old Newspaper
+Chìa Khóa Rỉ Nhỏ
 
 
-Blue Crayon Note
+Chìa Khóa Cổng Trước
+Nhật Ký với Khóa
+Chuỗi Hạt
+Mảnh Quần Áo
+Thanh Kim Loại
+Báo Nhà Máy
+
+Note viết sáp rách
+
+Chìa khóa bẩn
+Vòng Cổ Đứt
+Bọ Chết
+Thẻ Điện Thoại
+Bi Bị Móp
+Bút Chì Vỡ
+Báo Cũ
 
 
+Note bút sáp lam
 
 
 
@@ -126,136 +124,138 @@ Blue Crayon Note
 
 
 
-Old Charm
+
+
+Bùa Cũ
 
 
 
 
 
-Black Crayon Note
-Worn-Out Crayons
-Toy Bone
-Dry Eyeball
-Eyepatch
+Note bút chì đen
+Bút chì mục
+Xương Đồ Chơi
+Nhãn Cầu Khô
+Miếng Bịt Mắt
 
 
 
-Mary Doll
-Voodoo Doll
-Japanese Doll
-Human Bone
-Big Bell
-Mummy
-Picture Book
+Búp Bê Mary
+Búp Bê Voodoo
+Búp Bê Nhật Bản
+Xương Người
+Chuông Lớn
+Xác Ướp
+Sách Ảnh
 Radio
-Kid's Sandal
-Cigarette Butt
-Chicken Egg
-Unique Bottle
-Clacker
-Weird Puzzle
-Jagged 10
+Sandal trẻ em
+Tàn Thuốc Lá
+Trứng Gà
+Chai Độc Đáo
+Quả Lắc
+Mảnh Ghép Lạ
+10 yên cổ
 Tsuchinoko
-Trophy
-Part 1
-Part 2
-Part 3
-Part 4
-Part 5
-Puzzle Piece 1
-Puzzle Piece 2
-Puzzle Piece 3
-Puzzle Piece 4
-Puzzle Piece 5
-Puzzle Piece 6
-Puzzle Piece 7
-Puzzle Piece 8
-Puzzle Piece 9
-Puzzle Piece 10
-Puzzle Piece 11
-Puzzle Piece 12
-Puzzle Piece 13
-Puzzle Piece 14
-Puzzle Piece 15
-Puzzle Piece 16
-Puzzle Piece 17
-Puzzle Piece 18
-Puzzle Piece 19
-Puzzle Piece 20
-A normal rock.
-If I throw it,
-spirits might
-react to it. It
-could be useful.
-Money. By saving
-up, I can shop,
-make an offering,
-and do lots more.
+Cúp
+Mảnh 1
+Mảnh 2
+Mảnh 3
+Mảnh 4
+Mảnh 5
+Mảnh ghép 1
+Mảnh ghép 2
+Mảnh ghép 3
+Mảnh ghép 4
+Mảnh ghép 5
+Mảnh ghép 6
+Mảnh ghép 7
+Mảnh ghép 8
+Mảnh ghép 9
+Mảng ghép 10
+Mảnh ghép 11
+Mảnh ghép 12
+Mảnh ghép 13
+Mảnh ghép 14
+Mảnh ghép 15
+Mảnh ghép 16
+Mảnh ghép 17
+Mảnh ghép 18
+Mảnh ghép 19
+Mảnh ghép 20
+Nếu mình ném nó
+linh hồn sẽ phản
+ứng với nó. Nó
+sẽ hữu ích
+Tiền, cố thu thập
+chúng, mình có
+thể mua đồ,
+cúng dường và
+nhiều thứ khác
 
-White and
-smooth salt.
-Spirits don't
-like it.
+Trắng và mịn
+Linh hồn không
+thích chúng.
 
-A small shovel
-that I found at
-the park. It's
-a toy, but it has
-nicked edges.
-Lighting this up
-might make things
-brighter, but I'm
-not supposed to
-play with matches.
-A voodoo doll
-Hanako gave me.
-If spirits see it,
-they'll attack it.
 
-A treat for pets
-that looks like a
-fish. If I give it
-to animals, they
-might like me.
-A gold, clear,
-candy that's as
-pretty as a jewel.
-It has a very,
-very sweet smell.
-It says the game
-won't stop till I
-give the Daruma
-doll a right eye.
+Cái xẻng nhỏ
+mình thấy ở
+công viên, nó là
+đồ chơi, nhưng
+vẩn đủ sắc.
+Khi thắp nó sẽ
+làm xung quanh
+sáng hơn.
+Nhưng mình không
+nên nghịch diêm.
+Búp bê Voodoo mà
+Hanako cho mình
+Nếu linh hồn thấy nó
+chúng sẽ tấn công.
 
-It's made of wood.
-The white part of
-the eye is dirty
-and yellow and it
-feels bumpy.
-It's kind of
-squishy, like
-meat. Sometimes
-it moves.
+Đồ ăn cho thú mà như
+cho cá. Nếu mình cho
+nó ăn thì chắc hẳn
+chúng thích mình lắm.
 
-It's all torn up,
-I can't read it!
-It's all dirty,
-too.
+Màu vàng trong suốt
+viên kẹo này cứ như
+viên đá quý vậy.
+Nó có mùi rất
+rất ngọt.
+Nó ghi trò Daruma
+sẽ không ngừng lại
+nếu chưa đặt mắt
+phải của nó vào
+Cẩn thận đóa!
+Nó làm bằng gỗ
+Phần màu trắng bẩn
+và màu vàng nhìn thấy
+gớm chết đi được
+Nó trông yếu ớt
+giống như miếng thịt
+Đôi khi hình như
+còn di chuyển nữa
+ghê quá.
 
-I have to copy the
-letter and make
-someone read it or
-I'll be cursed!
+Nó bị rách gần hết
+và không thể đọc nó!
+Nó còn bẩn lắm
+luôn ấy.
 
-A letter that got
-sent to me. But
-there's nothing
-written inside.
+Mình phải lẹ lẹ
+sao chép thư này
+và cho ai đọc nó
+hoặc là mình sẽ
+bị nguyền mất!
+Lá thư này gửi
+cho mình. nhưng
+không ghi gì ở
+trong cả.
 
-A toy that the
-Daruma from the
-park gave me. I
-put the eye in it.
+Món đồ chơi từ
+Daruma ở công viên
+Mình phải đặt mắt
+vào nó.
 
 
 
