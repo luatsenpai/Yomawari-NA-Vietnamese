@@ -1,303 +1,305 @@
-Yes
-No
-Quicksave completed.
-Give a coin to the Jizo Statue?
-You don't have a coin...
-Go outside?
-Are you sure?
-???
-Yomawari: Night Alone
-Save Data
-Saving...
-Save has been completed.
-Failed to save.
-?dKB required to save data.
-Unable to load due to corrupt data.
-Delete save data
-Deleting data...
-× Check
-Would you like to save?
-Save
-Cancel
-Delete save data?
-Please try saving again
-I offered a coin.
-found!
-Save clear data?
-Returning to title...
-Data will not be saved. Are you sure?
-A
-B
-X
-Y
-LB
-RB
-LT
-RT
-START
-BACK
-Button 1
-Button 2
-Button 3
-Button 4
-Button 5
-Button 6
-Button 7
-Button 8
-Button 9
-Button 10
-Button 11
-Button 12
-Button 13
-Button 14
-Button 15
-Button 16
-Button 17
-Button 18
-Button 19
-Button 20
-Button 21
-Button 22
-Button 23
-Button 24
-Button 25
-Button 26
-Button 27
-Button 28
-Button 29
-Button 30
-Button 31
-Button 32
-Pebble
-Coin
-Salt
-Shovel
-Match
-Doll
-Animal Feed
-Hard Candy
-Doodle Note
-Dull Eyeball
-Meat
-Torn Letter
-Unhappy Letter
-Secret Letter
-One-Eyed Daruma
-Headless Horse's Stirrup
-Curved Bone
-Flashlight
-Dry Tissue
-Bone-Shaped Gum
-Blackboard Eraser
-Origami Crane
-
-Secret Path Note
-
-Chicken Coop Key
-Pool Key
-Toy Bone
-
-Wet Bone
-Sis's Shoe
-Torn Swimsuit
-Knapsack
-Box Robot
-Abusive Note
-Red Exam Sheet
-Recorder
-Slippers
-Red Crayon Note
-
-West Salt
-East Salt
-North Salt
-South Salt
-North Key
-South Key
-Red Charm
-Red Trinket
-Paper Plane
-Plastic Camera
-Pair of Shoes
-Big Fang
-Cup Ramen
-Black Furball
-Yellow Crayon Note
-
-Soft Wood Board
-Yellow Note
-
-Black Note
-Muddy Key
-Broken Necklace
-Fingernail
-Torn Shirt
-Wet Hourglass
-Moldy Bread
-Torn Rope
-Moldy Note
-
-Rusty Small Key
-
-
-Front Gate Key
-Diary with Lock
-Ring of Beads
-Piece of Cloth
-Metal Pipe
-Factory Newspaper
-
-Torn Crayon Note
-
-Dirty Key
-Torn Collar
-Dead Bug
-Calling Card
-Warped Marble
-Broken Pencil
-Old Newspaper
-
-
-Blue Crayon Note
-
-
-
-
-
-
-
-
-
-Old Charm
-
-
-
-
-
-Black Crayon Note
-Worn-Out Crayons
-Toy Bone
-Dry Eyeball
-Eyepatch
-
-
-
-Mary Doll
-Voodoo Doll
-Japanese Doll
-Human Bone
-Big Bell
-Mummy
-Picture Book
+Có
+Không
+Lưu nhanh hoàn thành
+Đưa đồng 10 yên cho tượng Jizo?
+Không có đồng 10 yên...
+Ra ngoài?
+Bạn chắc chứ?
+?????
+Yomawari Đêm Đơn Độc
+Lưu dữ liệu
+Đang lưu...
+Đã lưu
+Lưu thất bại
+Cần dung lượng trống khoảng %d KB để lưu dữ liệu
+Không thể nạp dữ liệu lưu vì dữ liệu đã hỏng
+Xóa dữ liệu lưu
+Xóa dữ liệu
+○ Xác Nhận
+Bạn muốn lưu chứ?
+Lưu
+Hủy
+Bạn muốn xóa dữ liệu đã lưu?
+Vui lòng thử lưu lại
+Tôi cần đồng 10 yên
+tìm thấy
+Bạn muốn xóa dữ liệu lưu?
+Trở về menu chính
+Dữ liệu sẽ không được lưu, bạn chắc chứ?
+Ａ
+Ｂ
+Ｘ
+Ｙ
+ＬＢ
+ＲＢ
+ＬＴ
+ＲＴ
+ＳＴＡＲＴ
+ＢＡＣＫ
+ボタン１
+ボタン２
+ボタン３
+ボタン４
+ボタン５
+ボタン６
+ボタン７
+ボタン８
+ボタン９
+ボタン１０
+ボタン１１
+ボタン１２
+ボタン１３
+ボタン１４
+ボタン１５
+ボタン１６
+ボタン１７
+ボタン１８
+ボタン１９
+ボタン２０
+ボタン２１
+ボタン２２
+ボタン２３
+ボタン２４
+ボタン２５
+ボタン２６
+ボタン２７
+ボタン２８
+ボタン２９
+ボタン３０
+ボタン３１
+ボタン３２
+Đá cuội
+10 Yên
+Muối
+Xẻng
+Diêm
+Búp Bê
+Thức Ăn Thú
+Kẹo Cứng
+Ghi Chú Vẽ Tay
+Nhãn Cầu Yếu
+Thịt
+Thư Rách
+Thư Buồn
+Thư Bí Mật
+Daruma 1 mắt
+Ngựa Không Đầu
+Xương Cong
+Đèn Pin
+Khăn Giấy Khô
+Sinh gum hình xương
+Đồ lau bảng
+Hạc Giấy
+未定
+Ghi chú bí ẩn
+メモ・コックリさんのやりかた
+Chìa Khóa Chuồng Gà
+Chìa Khóa Hồ Bơi
+Xương Đồ Chơi
+メモ・み ず の そ こ
+Xương Ướt
+Giày Của Chị
+Đồ Bơi Rách
+Túi Xếp
+Rô Bốt Bằng Hộp
+Giấy Nói Xấu
+Bảng Kiểm Tra Đỏ
+Sáo Recorder
+Dép Lê
+Note bút chì đỏ
+未定
+Muối Tây
+Muối Đông
+Muối Bắc
+Muối Nam
+Chìa Khóa Bắc
+Chìa Khóa Nam
+Bùa Đỏ
+Trang Sức Đỏ
+Máy Bay Giấy
+Máy Ảnh 1 Lần
+Đôi giày
+Nanh Lớn
+Mỳ Ly
+Cầu Lông Đen
+Note bút chì vàng
+未定
+Bảng Gỗ Mềm
+Ghi Chú Màu Vàng
+未定
+Ghi Chú Màu Đen
+Chìa Khóa Dính Bùn
+Dây Chuyền Hỏng
+Móng Tay
+Áo Sơ Mi Rách
+Đồng Hồ Cát Ướt
+Bánh Mỳ Mốc
+Dây Thừng Sờn
+Ghi Chú Bị Mốc
+未定
+Chìa Khóa Rỉ Nhỏ
+おうちのカギ
+未定
+Chìa Khóa Cổng Trước
+Nhật Ký với Khóa
+Chuỗi Hạt
+Mảnh Quần Áo
+Thanh Kim Loại
+Báo Nhà Máy
+未定
+Note viết chì rách
+未定
+Chìa khóa bẩn
+Vòng Cổ Đứt
+Bọ Chết
+Thẻ Điện Thoại
+Bi Bị Móp
+Viết Chì Vỡ
+Báo Cũ
+未定
+未定
+Note bút chì lam
+未定
+未定
+未定
+未定
+Mảnh gương 1
+Mảnh gương 2
+Mảnh gương 3
+Mảnh gương 4
+Mảnh gương 5
+Bùa Cũ
+がんたい
+未定
+未定
+未定
+未定
+Note bút chì đen
+Bút chì mục
+Xương Đồ Chơi
+Nhãn Cầu Khô
+Miếng Bịt Mắt
+未定
+未定
+未定
+Búp Bê Mary
+Búp Bê Voodoo
+Búp Bê Nhật Bản
+Xương Người
+Chuông Lớn
+Xác Ướp
+Sách Ảnh
 Radio
-Kid's Sandal
-Cigarette Butt
-Chicken Egg
-Unique Bottle
-Clacker
-Weird Puzzle
-Jagged 10
+Sandal trẻ em
+Tàn Thuốc Lá
+Trứng Gà
+Chai Độc Đáo
+Quả Lắc
+Mảnh Ghép Lạ
+10 yên cổ
 Tsuchinoko
-Trophy
-Part 1
-Part 2
-Part 3
-Part 4
-Part 5
-Puzzle Piece 1
-Puzzle Piece 2
-Puzzle Piece 3
-Puzzle Piece 4
-Puzzle Piece 5
-Puzzle Piece 6
-Puzzle Piece 7
-Puzzle Piece 8
-Puzzle Piece 9
-Puzzle Piece 10
-Puzzle Piece 11
-Puzzle Piece 12
-Puzzle Piece 13
-Puzzle Piece 14
-Puzzle Piece 15
-Puzzle Piece 16
-Puzzle Piece 17
-Puzzle Piece 18
-Puzzle Piece 19
-Puzzle Piece 20
-A normal rock.
-If I throw it,
-spirits might
-react to it. It
-could be useful.
-Money. By saving
-up, I can shop,
-make an offering,
-and do lots more.
-
-White and
-smooth salt.
-Spirits don't
-like it.
-
-A small shovel
-that I found at
-the park. It's
-a toy, but it has
-nicked edges.
-Lighting this up
-might make things
-brighter, but I'm
-not supposed to
-play with matches.
-A voodoo doll
-Hanako gave me.
-If spirits see it,
-they'll attack it.
+Cúp
+Mảnh 1
+Mảnh 2
+Mảnh 3
+Mảnh 4
+Mảnh 5
+Mảnh ghép 1
+Mảnh ghép 2
+Mảnh ghép 3
+Mảnh ghép 4
+Mảnh ghép 5
+Mảnh ghép 6
+Mảnh ghép 7
+Mảnh ghép 8
+Mảnh ghép 9
+Mảng ghép 10
+Mảnh ghép 11
+Mảnh ghép 12
+Mảnh ghép 13
+Mảnh ghép 14
+Mảnh ghép 15
+Mảnh ghép 16
+Mảnh ghép 17
+Mảnh ghép 18
+Mảnh ghép 19
+Mảnh ghép 20
+Hòn đá bình thường.
+Nếu mình ném nó
+linh hồn sẽ phản
+ứng với nó. Nó
+sẽ hữu ích
+Tiền, cố thu thập
+chúng, mình có
+thể mua đồ,
+cúng dường và
+nhiều thứ khác
+
+Trắng và mịn
+Linh hồn không
+thích chúng.
+
+Cái xẻng nhỏ
+mình thấy ở
+công viên, nó là
+đồ chơi, nhưng
+vẩn đủ sắc.
+Khi thắp nó sẽ
+làm xung quanh
+sáng hơn.
+Nhưng mình không
+nên nghịch diêm.
+Búp bê Voodoo mà
+Hanako cho mình
+Nếu linh hồn thấy nó
+chúng sẽ tấn công
+
+Đồ ăn cho thú mà như
+cho cá. Nếu mình chi
+nó ăn thì chắc hẳn
+chúng thích mình lắm.
 
-A treat for pets
-that looks like a
-fish. If I give it
-to animals, they
-might like me.
-A gold, clear,
-candy that's as
-pretty as a jewel.
-It has a very,
-very sweet smell.
-It says the game
-won't stop till I
-give the Daruma
-doll a right eye.
+Màu vàng trong suốt
+viên kẹo này cứ như
+viên đá quý vậy.
+Nó có mùi rất
+rất ngọt.
+Nó ghi trò Daruma
+sẽ không ngừng lại
+nếu chưa đặt mắt
+phải của nó vào
+Cẩn thận đóa!
+Nó làm bằng gỗ
+Phần màu trắng bẩn
+và màu vàng nhìn thấy
+gớm chết đi được
+Nó trông yếu ớt
+giống như miếng thịt
+Đôi khi hình như
+còn di chuyển nữa
+ghê quá.
 
-It's made of wood.
-The white part of
-the eye is dirty
-and yellow and it
-feels bumpy.
-It's kind of
-squishy, like
-meat. Sometimes
-it moves.
+Nó bị rách gần hết
+và không thể đọc nó!
+Nó còn bẩn lắm
+luôn ấy.
 
-It's all torn up,
-I can't read it!
-It's all dirty,
-too.
+Mình phải lẹ lẹ
+sao chép thư này
+và cho ai đọc nó
+hoặc là mình sẽ
+Bị nguyền mất!
+Lá thư này gửi
+cho mình. nhưng
+không ghi gì ở
+trong cả.
 
-I have to copy the
-letter and make
-someone read it or
-I'll be cursed!
+Món đồ chơi từ
+Daruma ở công viên
+Khi tôi đặt mắt vào
+nó.
 
-A letter that got
-sent to me. But
-there's nothing
-written inside.
 
-A toy that the
-Daruma from the
-park gave me. I
-put the eye in it.
 
 
 
@@ -307,33 +309,36 @@ put the eye in it.
 
 
 
+Của chị làm
+rơi đây mà.
+Nó vừa khít
+với tay mình
+luôn ấy.
+Nó bị bỏ nơi
+không có nắng.
+Nó đang khô, nó
+chưa được tưới
+khá lâu rồi.
+Món đồ chơi hình
+xương chó rất thích.
+Poro rất thích nó
+Nó được giấu
+sau chuồng chó.
+Đồ lau bảng của
+trường đây mà
+Sao nó ở đây?
+Có lẽ ai đó
+mang ra đây....
+Một con hạc giấy
+nho nhỏ.
+Nó gấp hơi sai
+nên nhìn rất là
+buồn cười.
 
 
-Sis dropped this.
-It fits right
-in my palm.
 
 
-It was left out in
-the sun and dried
-up. It hasn't
-rained in a long
-time.
-A bone-shaped
-dog treat.
-Poro loves it. It
-was hidden behind
-the doghouse.
-A blackboard
-eraser from
-school. How did it
-get out here?
 
-A tiny crane made
-out of paper.
-But it wasn't
-folded quite right
-so it looks funny.
 
 
 
@@ -354,176 +359,186 @@ so it looks funny.
 
 
 
+Một ghi chú viết
+khá cẩu tả. Nó ghi
+Có con đường
+bên cạnh
+tượng Jizo.
 
 
 
 
 
-A note in sloppy
-writing. It says
-there's a path
-by the Jizo Statue
-near the school.
+Chìa khóa có
+gắn hình con gà.
+Người chở hàng
+làm rơi nó chăng?
 
+Có miếng dán ghi
+hồ bơi trên đó.
+Nó vẫn còn ấm
+từ khi con gà
+nằm lên nó.
 
 
 
 
-A key with a
-chicken on it. Did
-the person in
-charge drop it?
 
-There's a sticker
-that says @pool@
-on it. It's still
-warm from the hen
-sitting on it.
 
 
 
 
 
+Một cái xương
+nhỏ bị mắc
+kẹt trong cống.
+Đang có 1 lớp
+rêu mỏng bám vào.
+Giày của chị mình
+tìm thấy ở trường.
+Nó dính nước dãi
+từ chó-mặt người
+trên đó.
+Đồ bơi nữ mình
+tìm thấy ở
+hồ bơi.
+Nó đã rách
 
+Đó là chiếc túi
+với dây đeo.
+Dây đeo đã
+bị tháo ra.
 
+Rô bốt tạo bằng
+hộp bánh.
+Nó được tạo ra
+trông như nó đang
+bay về vũ trụ.
+Ngốc...Phiền quá...
+Biến đi
+.................................
+Ai đó viết ghi
+chú ở đây.
+Một bài kiểm tra
+và nó sai rất nhiều
+Nó bị vo lại
+thành cục rồi
+ném đi.
+Sáo Recorder nâu.
+Mình không chơi
+tốt lắm. Nhưng
+chị mình chơi rất
+giỏi.
+Giày vải mà mình
+thường mang đi học.
+Nó rất trơn, vào
+những ngày mưa
+mình dễ vấp ngã
+Mẹ đã không quay
+về nhà đã lâu.
+Mẹ có thể đi đâu
+từ nãy tới giờ chứ?
+Tờ giấy ghi thế....
 
 
 
-A small bone
-that was stuck in
-the drain.
-Soft mold is
-growing on it.
-Sis's shoe that I
-found at school.
-It's got slobber
-from the human-
-faced dog on it.
-A girl's swimsuit
-that I found
-in the pool.
-It's torn up.
 
-It's a bag with
-straps. The
-shoulder strap
-is untied.
 
-A robot made out
-of snack boxes.
-It's posed to look
-like it's about
-to fly into space.
-@Stupid@...
-@Annoying@...
-@Disappear@...
-Somebody wrote a
-mean note on here.
-An exam sheet with
-a lot of mistakes.
-It was balled up
-and thrown out.
+Muối rất mịn.
+Linh hồn rết kêu
+mình rải này
+quanh phố
+xem như ân huệ.
+Muối rất mịn.
+Linh hồn rết kêu
+mình rải này
+quanh phố
+xem như ân huệ.
+Muối rất mịn.
+Linh hồn rết kêu
+mình rải này
+quanh phố
+xem như ân huệ.
+Muối rất mịn.
+Linh hồn rết kêu
+mình rải này
+quanh phố
+xem như ân huệ.
+Chìa khóa rào phía
+Bắc trung tâm thành
+phố. Nó rất nhờn
+và dính dính. Eo
 
-A brown recorder.
-I can't play it
-well, but Sis is
-really good
-at playing it.
-Cloth shoes that
-I wear in school.
-It's slippery on
-rainy days, so I
-fall down a lot.
-@Mom won't come
-back home. Where
-did she go at this
-hour?@ That's what
-the note says.
+Chìa khóa rào phía
+Nam trung tâm
+thành phố.
+Nó hơi cong nhể
+Chắc sẽ xài được?
+Miếng bùa cũ có
+màu sắc rất đẹp.
+Nó hình cung
+và con rết đã
+đánh dấu nên nó.
+Miếng bùa mà
+con rết đánh dấu
+lên nó.
+Màu đỏ đang
+phai dần đi.
+Nó là tờ rơi
+của siêu thị.
+Không biết nó
+bay từ đâu nhỉ?
 
+Như cái tên
+Xài xong vứt đi
+Ấn tượng
+thật đấy.
 
+Giày của người lớn
+đặt ngay ngắn
+với nhau.
+Ai đặt nó ở
+đây thế nhể.
+Cái nanh siêu to
+khổng lồ này chắc
+không phải của người
+Không lẽ linh hồn
+rụng răng chăng?
+Một ly mỳ đã
+mở nằm vật
+giửa đường.
+Nó vẫn còn
+nóng luôn ấy.
+Một cầu lông
+trông như búi
+tóc con người
+Nó khá to so
+với đầu mình.
+Mẹ đã bị bắt
+bởi linh hồn đó ...
+mình phải nhanh
+chóng cứu mẹ
+Tờ giấy ghi thế...
 
 
 
-Smooth salt. The
-centipede spirit
-asked me to put it
-in places around
-town as a favor.
-Smooth salt. The
-centipede spirit
-asked me to put it
-in places around
-town as a favor.
-Smooth salt. The
-centipede spirit
-asked me to put it
-in places around
-town as a favor.
-Smooth salt. The
-centipede spirit
-asked me to put it
-in places around
-town as a favor.
-Key to the North
-fence downtown.
-It's greasy and
-very sticky.
 
-Key to the South
-fence downtown.
-It's kinda bent. I
-hope I can use it.
 
-An old charm with
-pretty colors.
-It has an arch
-and a centipede
-mark on it.
-A charm that
-has a centipede
-mark on it. The
-bright red color
-hasn't faded.
-Made out of an ad
-from a market.
-I wonder where
-it flew here from.
 
-It's a simple,
-throwaway camera.
 
 
 
-A grown-up's shoes
-placed neatly
-together. I wonder
-who put them here.
 
-A great big fang
-that's for sure
-not from a human.
-Did a spirit
-lose its tooth?
-An opened cup of
-noodles that was
-lying on the road.
-It's steaming and
-looks really warm.
-A furball that
-looks like a knot
-of human hair.
-It's as big as
-my head!
-@Mom was taken
-by that spirit...
-I have to save
-her.@ That's what's
-written on it.
 
 
 
 
 
+Bảng bằng gỗ.
+Nó khá mềm và
+bị vứt bên ngoài
+Nó trông khá
+là nguy hiểm...
 
 
 
@@ -534,166 +549,166 @@ written on it.
 
 
 
-Part of a wooden
-board. It's soft
-from being left
-outside. It looks
-dangerous...
+Ghi chú dính bùn.
+Nó ghi là
+Trả lại cho ta
+Trả lại cho ta
+Ai viết thế nhỉ?
+Chìa khóa tìm
+thấy trên cánh đồng
+Mình không thể
+chịu được mùi
+bẩn của nó
+Dây chuyền bạc
+Mình thấy trên đường.
+Nó khá cũ và sờn
+nhưng nó vẫn
+còn sáng.
+Một móng tay dài
+sơn màu đỏ
+trên đó.
+Nó bị chôn vùi
+trong bụi bẩn.
+Chiếc áo cũ bị
+vo viên trên đường.
+Nó đã bị phai màu
+do phải chịu ánh
+nắng mặt trời.
+Đồng hồ cát chứa
+cát màu hồng
+Nó bị ướt và cát
+không chảy khi
+bạn lật nó lại.
+Đá cứng nhưng một
+lớp rêu mềm bao
+phủ lên nó.
+Mình cảm thấy không
+Thích ăn nó lắm
+Một sợi dây cũ
+và dập nữa.
+Nó bị sờn và
+còn ngắn nữa.
 
+Chữ viết run rẩy
+Nó ghi rằng
+Nó đâu rồi...
+Trả lại cho ta....
+Nó đâu, trả lại...
 
 
 
 
 
+Chìa khóa rỉ sét
+nhặt ở nhà máy.
+Mình không chắc
+có phải từ ống khói
+ghi trên đó không.
 
 
 
 
-A smudged note
-that says, @give
-it back, give it
-back.@ I wonder
-who it was for.
-A key I found in
-the field. I can't
-get the smell of
-dirt off of it.
 
-A silver necklace
-I found on a path.
-It's rusty and
-torn, but still
-shining.
-A long nail with
-light red nail
-polish on it.
-It was buried
-in the dirt.
-An old shirt that
-was balled up on
-the street. It's
-all sun faded and
-beat up.
-An hourglass with
-pink sand in it.
-It's wet, so the
-sand doesn't move
-if you flip it.
-Rock hard, but it
-has a soft mold
-growing on it.
-I don't feel like
-eating it.
-A very old and
-beat-up rope.
-It's torn, so
-it's shorter.
 
-In shaky letters
-it says, @where is
-it, give it back,
-where is it,
-give it back...@
 
 
 
 
+Chìa khóa này sâu
+trong nhà máy.
+Nó có dây đeo
+với tên của
+nhà máy trên đó.
+Mình tìm thấy nó,
+nhưng mình không
+biết mã để mở.
+Có vẻ nó đã bị
+khóa khá lâu rồi.
+Chiếc nhẫn được
+làm từ chuỗi hạt
+Nó vừa khít với
+ngón tay mình
+luôn này.
+Mảnh vải có
+nhân vật anime
+trên đó.
+Nó bị xé
+gần hết.
+Có thể mình sẽ dùng
+nó trên linh hồn.
+Nhưng mình không
+chắc nó sẽ
+mạnh đâu.
+Đây là bài báo từ
+khi nhà máy còn
+hoạt động.
+Có tấm ảnh chụp
+kim loại trên đó.
 
-A rusty key that
-I got at the
-factory. I can
-barely tell that
-it says @chimney.@
 
 
 
 
+Nó đã bị rách
+nhưng phần này
+nói rằng. bạn càng
+đi sâu vào hầm
+linh hồn càng mạnh...
 
 
 
 
 
+Mình tìm thấy chìa
+khóa ở bìa rừng
+Nhưng vì lý do nào
+đó mà nó lạnh ngắt.
 
-A key from deep
-in the factory.
-It has a strap
-with the name of
-the factory on it.
-I found this, but
-I don't know the
-code to open it.
-It's probably been
-locked a long time.
-A ring made out of
-beads and string.
-It fits perfectly
-on my finger.
+Một phần của
+vòng cổ. Nó mới
+rửa sạch nhưng còn
+mùi của Poro trên đó
 
-A piece of cloth
-that had an anime
-character on it.
-It's been ripped
-all over.
-Maybe I could
-use this on the
-spirits. But I'm
-not really that
-strong...
-It's an article
-from when this
-factory was still
-open. There's a
-picture of metal.
+Con bọ nhỏ đã chết
+nó lạnh và cứng.
+Nhưng nó vẫn
+còn sáng và
+xanh bóng.
+Mình cần nó để
+dùng điện thoại
+công cộng, nhưng
+mình chưa từng
+làm việc này.
+Nó là viên bi
+nhưng nó bị sứt
+mẻ và cũng không
+còn lăn nữa
 
+Phần giữa đã hỏng,
+và chỉ đang bắt
+đầu chảy ra ngoài.
+Nhưng mình vẫn
+sử dụng nó.
+Đây là một
+bài báo cũ.
+Nó viết về một lễ
+hội thờ cúng gần
+ngọn núi.
 
 
 
 
-It's torn, but
-this part says more
-hand spirits show
-up the deeper you
-go in the tunnel...
 
 
 
 
 
-A key I found by
-the entrance to
-the woods. For
-some reason, it's
-very cold.
-Part of a collar.
-It was freshly
-washed, but it
-still has Poro's
-smell on it.
-A little, dead bug.
-It's cold and
-hard. But, it's
-still pretty and
-shiny and green.
-I need this to
-use the pay phone,
-but I've never
-done that before.
 
-It's a marble, but
-the glass is
-chipped and it
-isn't round, so
-it won't roll.
-The middle part is
-broken and the
-lead is sticking
-out. But I'll
-still use it.
-An old newspaper.
-There's an article
-about a festival
-worshipping the
-nearby mountain.
+Con vẫn đang tìm
+nhưng vẫn vô vọng
+Mẹ biến mất mãi mãi
+rồi sao? Làm ơn......
+Nó viết vậy...
 
 
 
@@ -704,11 +719,6 @@ nearby mountain.
 
 
 
-@I've been looking,
-but I can't find
-you. Are you gone
-forever? Please...@
-Is what it says.
 
 
 
@@ -749,6 +759,11 @@ Is what it says.
 
 
 
+Lá bùa mà chị
+luôn luôn giữ bên
+mình. Bằng cách
+nào đó mà mình
+cảm thấy ấm áp.
 
 
 
@@ -759,11 +774,6 @@ Is what it says.
 
 
 
-A charm that Sis
-always kept close
-to her. When I
-hold it, it feels
-warm somehow.
 
 
 
@@ -774,8 +784,31 @@ warm somehow.
 
 
 
+Miếng ghi chú cũ.
+Nó ghi rằng những
+người bị bắt cóc sẽ
+bị đưa qua phía
+bên kia đường hầm
+Một hộp màu đã
+qua sử dụng và
+nó còn rất nhỏ.
+Một số cây đã
+mòn và vỡ ra
+Đồ chơi cho chó trong
+hình dạng cục xương
+Poro rất thích nó
 
 
+Một viên kẹo
+tròn và sáng bóng.
+Nó đã khô nhưng
+có vẻ nó còn sống
+và đang nhìn mình.
+Mình đã dùng nó để
+che một bên mắt.
+Nó đã không còn
+Nhưng ít ra mình
+đã cứu được chị.
 
 
 
@@ -784,965 +817,932 @@ warm somehow.
 
 
 
-An old note. It
-says the kidnapped
-will be taken to
-the other side of
-the tunnel.
-A used set of
-crayons that got
-really small.
-Some are broken
-and worn out.
-A dog toy in the
-shape of a bone.
-Poro's favorite.
 
 
-A round and shiny
-candy ball. It's
-dry, but it looks
-like it's alive
-and staring at me.
-I use it to hide
-the hole where my
-eye was. I can't
-see anymore, but
-I saved Sis.
 
 
 
 
 
+Một con búp bê
+tên là Mary
+Cô rất cô đơn
+và dễ ghen tỵ.
 
 
 
 
 
 
+Con búp bê có mái
+tóc đen tuyệt đẹp.
+Thỉnh thoảng mình có
+cảm giác nó nhìn mình
 
+Ai đó được chôn
+ở đây. Ông ấy trông
+có vẻ buồn. Vì thế mình
+lén đưa ông ra ngoài
 
+Mình tìm thấy nó
+ở khu đất trống
+Nó rất ồn khi
+mình đá vào nó.
 
+Một xác ướp nhỏ.
+Nó có một cái mỏ
+và còn có vây nữa.
+Mình muốn thấy
+nguyên bản quá.
+Quyển sách nói về
+cô bé và con ma
+đang sống dưới giường
+Họ đang cùng nhau
+mỉm cười.
+Chị đã sửa nó
+với những phần
+mình đã thu thập.
+Chiếc máy đang
+phát nhạc.
+Chiếc sandal trẻ em
+nhỏ màu hồng. Nó
+tạo âm thanh vui
+nhộn khi dẵm vào.
 
-The doll's name
-is Mary. She
-gets lonely and
-jealous easily.
+Bạn sẽ được phép
+hút thuốc khi 20 tuổi.
+Nhưng bạn phải luôn
+ném tàn thuốc đi.
 
+Quả trứng do con
+gà mái ở trường đẻ
+Mình hy vọng nó
+nở ra gà con
+sớm sớm...
+Cái chai khá lạ.
+Dù màu sắc, hình
+dáng và những viên
+bi khiến mình cảm
+thấy dễ chịu.
+Nếu mình tiếp tục
+đánh vào nó, nó
+càng khiến mình cảm 
+thấy hạnh phúc
 
+Mảnh ghép của 1
+cái hộp. Có vẻ
+chuyện gì đó
+đã diễn ra.
 
+Đồng 10 yên đặc
+biệt có các gờ
+xung quanh.
+Nó rất hiếm, mình
+không muốn dùng.
+Thứ thú vị nho nhỏ
+này có thân hình rộng
+Nó thật dễ thương,
+mình sẽ giữ nó
 
+Phần thưởng sáng
+bóng cho mình, người
+đã làm rất tốt
+Xin chúc mừng.
+Cảm ơn nhiều.
+Bộ phận cơ khí mà
+mình chưa từng thấy.
+Nếu lấy đủ nó sẽ ráp
+ra cái gì đó chăng?
 
+Bộ phận cơ khí mà
+mình chưa từng thấy.
+Nếu lấy đủ nó sẽ ráp
+ra cái gì đó chăng?
 
-A doll with pretty
-black hair. 
-Sometimes it looks
-like it's staring
-into me.
-Someone that was
-buried in the
-ground. He looked
-sad, so I snuck
-him out.
-I found this at
-the vacant lot. It
-makes a really
-loud noise when I
-kick it.
-A small mummy.
-It has a beak and
-it also has fins.
-I want to see the
-original form.
-A book about a
-girl and a spirit
-who lives under
-her bed. They're
-smiling together.
-Sis fixed it with
-the parts I
-collected.
-A machine that
-plays music.
-A kid's small,
-pink sandal. It
-makes a funny
-noise when I step
-on it.
-You're allowed to
-smoke when you're
-a grown-up. But you
-always have to throw
-the butt away.
-An egg that the
-hen at school
-laid. I hope a
-chick hatches
-soon!
-A weird bottle.
-The color, shape,
-and the marble
-inside makes me
-feel nice, though.
-If I keep on
-hitting it, it
-makes me kinda
-happy.
+Bộ phận cơ khí mà
+mình chưa từng thấy.
+Nếu lấy đủ nó sẽ ráp
+ra cái gì đó chăng?
 
-The puzzle pieces
-made a box. Seems
-like something was
-supposed to
-happen.
-A special coin
-with ridged
-edges. It's rare,
-so I don't want
-to use it.
-A funny little
-thing with a wide
-body. It's cute,
-so I think I'll
-keep it as a pet.
-A shiny reward
-for me, who's
-doing her best.
-Congratulations.
-Thank you.
-A mechanical part
-I've never seen
-before. Do I get
-a bunch of them to
-build something?
-A mechanical part
-I've never seen
-before. Do I get
-a bunch of them to
-build something?
-A mechanical part
-I've never seen
-before. Do I get
-a bunch of them to
-build something?
-A mechanical part
-I've never seen
-before. Do I get
-a bunch of them to
-build something?
-A mechanical part
-I've never seen
-before. Do I get
-a bunch of them to
-build something?
-A 3D puzzle
-piece. Let's find
-them all and
-build the puzzle!
+Bộ phận cơ khí mà
+mình chưa từng thấy.
+Nếu lấy đủ nó sẽ ráp
+ra cái gì đó chăng?
 
-A 3D puzzle
-piece. Let's find
-them all and
-build the puzzle!
+Bộ phận cơ khí mà
+mình chưa từng thấy.
+Nếu lấy đủ nó sẽ ráp
+ra cái gì đó chăng?
 
-A 3D puzzle
-piece. Let's find
-them all and
-build the puzzle!
+Nó là mảnh ghép
+3D. Phải tìm hết
+tất cả và
+ráp thôi!
 
-A 3D puzzle
-piece. Let's find
-them all and
-build the puzzle!
+Nó là mảnh ghép
+3D. Phải tìm hết
+tất cả và
+ráp thôi!
 
-A 3D puzzle
-piece. Let's find
-them all and
-build the puzzle!
+Nó là mảnh ghép
+3D. Phải tìm hết
+tất cả và
+ráp thôi!
 
-A 3D puzzle
-piece. Let's find
-them all and
-build the puzzle!
+Nó là mảnh ghép
+3D. Phải tìm hết
+tất cả và
+ráp thôi!
 
-A 3D puzzle
-piece. Let's find
-them all and
-build the puzzle!
+Nó là mảnh ghép
+3D. Phải tìm hết
+tất cả và
+ráp thôi!
 
-A 3D puzzle
-piece. Let's find
-them all and
-build the puzzle!
+Nó là mảnh ghép
+3D. Phải tìm hết
+tất cả và
+ráp thôi!
 
-A 3D puzzle
-piece. Let's find
-them all and
-build the puzzle!
+Nó là mảnh ghép
+3D. Phải tìm hết
+tất cả và
+ráp thôi!
 
-A 3D puzzle
-piece. Let's find
-them all and
-build the puzzle!
+Nó là mảnh ghép
+3D. Phải tìm hết
+tất cả và
+ráp thôi!
 
-A 3D puzzle
-piece. Let's find
-them all and
-build the puzzle!
+Nó là mảnh ghép
+3D. Phải tìm hết
+tất cả và
+ráp thôi!
 
-A 3D puzzle
-piece. Let's find
-them all and
-build the puzzle!
+Nó là mảnh ghép
+3D. Phải tìm hết
+tất cả và
+ráp thôi!
 
-A 3D puzzle
-piece. Let's find
-them all and
-build the puzzle!
+Nó là mảnh ghép
+3D. Phải tìm hết
+tất cả và
+ráp thôi!
 
-A 3D puzzle
-piece. Let's find
-them all and
-build the puzzle!
+Nó là mảnh ghép
+3D. Phải tìm hết
+tất cả và
+ráp thôi!
 
-A 3D puzzle
-piece. Let's find
-them all and
-build the puzzle!
+Nó là mảnh ghép
+3D. Phải tìm hết
+tất cả và
+ráp thôi!
 
-A 3D puzzle
-piece. Let's find
-them all and
-build the puzzle!
+Nó là mảnh ghép
+3D. Phải tìm hết
+tất cả và
+ráp thôi!
 
-A 3D puzzle
-piece. Let's find
-them all and
-build the puzzle!
+Nó là mảnh ghép
+3D. Phải tìm hết
+tất cả và
+ráp thôi!
 
-A 3D puzzle
-piece. Let's find
-them all and
-build the puzzle!
+Nó là mảnh ghép
+3D. Phải tìm hết
+tất cả và
+ráp thôi!
 
-A 3D puzzle
-piece. Let's find
-them all and
-build the puzzle!
+Nó là mảnh ghép
+3D. Phải tìm hết
+tất cả và
+ráp thôi!
 
-A 3D puzzle
-piece. Let's find
-them all and
-build the puzzle!
+Nó là mảnh ghép
+3D. Phải tìm hết
+tất cả và
+ráp thôi!
 
+Nó là mảnh ghép
+3D. Phải tìm hết
+tất cả và
+ráp thôi!
 
+Nó là mảnh ghép
+3D. Phải tìm hết
+tất cả và
+ráp thôi!
 
+掲示板左チェック１行目
+２行目
+３行目
+４行目
+５行目
+６行目
+７行目
+８行目
+９行目
+１０行目
+掲示板右チェック１行目
+掲示板裏チェック１行目
+Đã có nhiều khiếu nại về
+tiếng chó sủa.
+Chủ nhân phải có trách nhiệm
+huấn luyện thú cưng của họ
+Đã có nhiều khiếu nại về
+tiếng chó sủa.
+Chủ nhân phải có trách nhiệm
+huấn luyện thú cưng của họ
+Có 1 ghi chú nhỏ ở đây...
+Thị trấn này từng rất nhộn nhịp
+giờ nó đang dần hoang tàn
+Xin đừng ném đá xuống ao.
+Xin đừng ném đá xuống ao.
+Tập 1 Bảng Kiểm Tra Độ Sâu 2
+Đó là chiếc xích đu
+Mình không nên đu đưa 1 mình vì có thể sẽ ngã
+Đó là chiếc xích đu
+Mình không nên đu đưa 1 mình vì có thể sẽ ngã
+Đó là chiếc xích đu
+Mình không nên đu đưa 1 mình vì có thể sẽ ngã
+Đó là cầu trượt cũ
+Nó lung lay khi mình chơi trên đó
+Đó là cầu trượt cũ
+Nó lung lay khi mình chơi trên đó
+Đó là cầu trượt cũ
+Nó lung lay khi mình chơi trên đó
+Đó là chuồng chó.
+Giờ Poro không có ở trong đó.
+Poro........................
+Đó là chuồng chó.
+Giờ Poro không có ở trong đó.
+Poro........................
+Đó là chuồng chó.
+Giờ Poro không có ở trong đó.
+Poro........................
+Người phụ nữ trẻ bị mất tích
+gần đoạn đường phía Bắc
+ngang qua cánh đồng lúa.
+.............................................
+........................................ A!
+Có nét vẽ nguyệch ngoạc trên góc!
+Tượng Jizo gần hồ bơi của trường.
+Có con đường bí mật tạo ra bởi
+những cái cây thấp gần đó
+Giấu con đường với lá đằng sau bạn!
+Người phụ nữ trẻ bị mất tích
+gần đoạn đường phía Bắc
+ngang qua cánh đồng lúa.
+.............................................
+........................................ A!
+Có nét vẽ nguyệch ngoạc trên góc!
+Tượng Jizo gần hồ bơi của trường.
+Có con đường bí mật tạo ra bởi
+những cái cây thấp gần đó
+Giấu con đường với lá đằng sau bạn!
+........................................ A!
+Có nét vẽ nguyệch ngoạc trên góc!
+Tượng Jizo gần hồ bơi của trường.
+Có con đường bí mật tạo ra bởi
+những cái cây thấp gần đó
+Giấu con đường với lá đằng sau bạn!
+Chìa Khóa Hồ Bơi và Chìa Khóa
+Chuồng Gà đã mất
+Học sinh nào nhặt được hãy
+đem trả lại cho văn phòng
+Chìa Khóa Hồ Bơi và Chìa Khóa
+Chuồng Gà đã mất
+Học sinh nào nhặt được hãy
+đem trả lại cho văn phòng
+Trước đây từng có 1 nữ sinh
+mất tích ở hồ bơi trường học
+Mọi người bắt đầu tìm kiếm nhưng
+không tìm thấy dù chỉ 1 cọng tóc.
+Có tin đồn nói rằng, cô ấy vẫn trong
+hồ bơi đó và đang tìm cách ra ngoài.
+Vì cô ấy nước trong hồ bơi đã
+chuyển sang màu đỏ lúc nửa đêm
+Tượng Jizo gần hồ bơi của trường.
+Có con đường bí mật tạo ra bởi
+những cái cây thấp gần đó
+Giấu con đường với lá đằng sau bạn.
+Tượng Jizo gần hồ bơi của trường.
+Có con đường bí mật tạo ra bởi
+những cái cây thấp gần đó
+Giấu con đường với lá đằng sau bạn.
+Đi lên.... Chuồng Gà
+Trái... Bãi Rác　　Phải.... Hồ Bơi
+Đi lên.... Chuồng Gà
+Trái... Bãi Rác　　Phải.... Hồ Bơi
+Bãi Rác ở phía trước
 
+Bạn có thể tìm được rất
+nhiều thứ ở bãi rác.
+Nó cũng rất nguy hiểm thế nên
+Mình không nên chạy trong đó
+Bãi Rác ở phía trước
 
+Bạn có thể tìm được rất
+nhiều thứ ở bãi rác.
+Nó cũng rất nguy hiểm thế nên
+Mình không nên chạy trong đó
+Một dòng chữ viết tay nhỏ
+và lộn xộn ở ngay góc.
+Đọc thử nào!
 
-
-
-
-
-
-
-
-There have been multiple noise
-complaints filed for barking dogs.
-It is the responsibility of the pet's
-owner to properly train their animal.
-There have been multiple noise
-complaints filed for barking dogs.
-It is the responsibility of the pet's
-owner to properly train their animal.
-There's a small note here...
-@This town was once so alive, but
-now it's just going to rust.@
-Please do not throw rocks in the pond.
-Please do not throw rocks in the pond.
-Episode 1 Bulletin Board Depth Check 2
-It's a swing.
-I shouldn't swing by myself. I might fall.
-It's a swing.
-I shouldn't swing by myself. I might fall.
-It's a swing.
-I shouldn't swing by myself. I might fall.
-It's an old slide.
-It wobbles when I play on it.
-It's an old slide.
-It wobbles when I play on it.
-It's an old slide.
-It wobbles when I play on it.
-It's a dog house.
-Poro isn't inside right now.
-Poro...
-It's a dog house.
-Poro isn't inside right now.
-Poro...
-It's a dog house.
-Poro isn't inside right now.
-Poro...
-A young woman has gone
-missing near the North pass
-of the rice fields.
-...
-...Ah!
-There's a scribble on the corner!
-@The Jizo Statue near the school pool.
-There is a secret path by the
-short tree nearby.
-Hide the path with leaves behind you!@
-A young woman has gone
-missing near the North pass
-of the rice fields.
-...
-...Ah!
-There's a scribble on the corner!
-@The Jizo Statue near the school pool.
-There is a secret path by the
-short tree nearby.
-Hide the path with leaves behind you!@
-...Ah!
-There's a scribble on the corner!
-@The Jizo Statue near the school pool.
-There is a secret path by the
-short tree nearby.
-Hide the path with leaves behind you!@
-The keys to the pool and the keys to
-the chicken coop are missing.
-The student who has them should
-return them to the office.
-The keys to the pool and the keys to
-the chicken coop are missing.
-The student who has them should
-return them to the office.
-@Long ago, a girl went
-missing in the school pool.
-Everyone looked for her, but they
-didn't even find a single hair.
-Legend has it, she's still in the
-pool, trying to get out.
-Because of her, the pool turns
-red at midnight.@
-@The Jizo Statue near the school pool.
-There is a secret path by the
-short tree near it. But remember to
-hide the path with leaves behind you.@
-@The Jizo Statue near the school pool.
-There is a secret path by the
-short tree near it. But remember to
-hide the path with leaves behind you.@
-Up ahead... Chicken Coop.
-Left... Dumpster. Right... Pool.
-Up ahead... Chicken Coop.
-Left... Dumpster. Right... Pool.
-The Dumpster is up ahead.
-
-You can find a lot of
-stuff at the dump.
-It's dangerous, so
-I shouldn't run in there.
-The Dumpster is up ahead.
-
-You can find a lot of
-stuff at the dump.
-It's dangerous, so
-I shouldn't run in there.
-There's messy, small
-handwriting in the corner.
-Let's read it!
-
-@I dropped the key to
-the Chicken Coop at the Dumpster!
-I didn't do it on purpose...@
-A tent made out of cardboard.
-It looks like it's gonna fall over.
-I wonder who made it.
-A tent made out of cardboard.
-It looks like it's gonna fall over.
-I wonder who made it.
-A tent made out of cardboard.
-It looks like it's gonna fall over.
-I wonder who made it.
-The biggest cherry tree in school.
-People say someone's buried under it,
-and someone hanged themselves on it,
-and it'll start bleeding if you cut it.
-There are tons of
-rumors about it.
-The biggest cherry tree in school.
-People say someone's buried under it,
-and someone hanged themselves on it,
-and it'll start bleeding if you cut it.
-There are tons of
-rumors about it.
-The biggest cherry tree in school.
-People say someone's buried under it,
-and someone hanged themselves on it,
-and it'll start bleeding if you cut it.
-There are tons of
-rumors about it.
-Hm?
-There's something buried under here...
-...Ah, it's a time capsule!
-...I'll put this back where it belongs.
-Hm?
-There's something buried under here...
-...Ah, it's a time capsule!
-...I'll put this back where it belongs.
-Hm?
-There's something buried under here...
-...Ah, it's a time capsule!
-...I'll put this back where it belongs.
-The incinerator is
-no longer in use.
-The door is closed
-and locked.
-The incinerator is
-no longer in use.
-The door is closed
-and locked.
-The incinerator is
-no longer in use.
-The door is closed
-and locked.
-Shopping mall coming soon!
-We advise residents in the downtown
-area to relocate for construction.
-Shopping mall coming soon!
-We advise residents in the downtown
-area to relocate for construction.
-Shopping mall coming soon!
-We advise residents in the downtown
-area to relocate for construction.
-A note on the closed shutter
-says they'll be right back.
-But I've never seen this
-store open in my whole life.
-A note on the closed shutter
-says they'll be right back.
-But I've never seen this
-store open in my whole life.
-A note on the closed shutter
-says they'll be right back.
-But I've never seen this
-store open in my whole life.
-This shutter is always
-closed, even during the day.
-Did it rust because no one
-opens it at all?
-This shutter is always
-closed, even during the day.
-Did it rust because no one
-opens it at all?
-The shutter is closed during the day.
-The shutter is closed during the day.
-Did it rust because no one
-opens it at all?
-The big shutter is down.
-It wouldn't be open at night.
-The big shutter is down.
-It wouldn't be open at night.
-The big shutter is down.
-It wouldn't be open at night.
-A young woman has gone
-missing near the North pass
-of the rice fields.
-
-Those with any information, please
-contact the number below.
-A young woman has gone
-missing near the North pass
-of the rice fields.
-
-Those with any information, please
-contact the number below.
-There is a small note here.
-...Let's read it.
-@The old man who got run over by a car
-a year ago was headed to the shrine.
-The car crushed him completely.
-There are marks on the guard rail.
-Rumor is, the old man is still where
-that accident happened, waiting...@
-WARNING
-CLIFFS AHEAD
-WARNING
-CLIFFS AHEAD
-...There's nothing on here.
-A young woman
-has gone missing.
-It is possible that
-she fell off the cliff.
-The search has been put
-on hold due to landslides.
-A young woman
-has gone missing.
-It is possible that
-she fell off the cliff.
-The search has been put
-on hold due to landslides.
-...There's nothing on here.
-A young woman
-has gone missing.
-The search has been put on hold.
-
-It is possible that
-she fell off the cliff.
-It has been determined that continuing
-the search would be too dangerous.
-Rescue efforts have been suspended.
-A young woman
-has gone missing.
-The search has been put on hold.
-
-It is possible that
-she fell off the cliff.
-It has been determined that continuing
-the search would be too dangerous.
-Rescue efforts have been suspended.
-M U    R  D E    R
-I see my town. But I can't see the sky.
-It's too dark to see the moon or stars.
-I see the factory chimney way off...
-I see my town. But I can't see the sky.
-It's too dark to see the moon or stars.
-I see the factory chimney way off...
-I see my town. But I can't see the sky.
-It's too dark to see the moon or stars.
-I see the factory chimney way off...
-It's a pretty pond, but it's dark
-now so I can't really see anything.
-It's really scary...
-It's a pretty pond, but it's dark
-now so I can't really see anything.
-It's really scary...
-It's a pretty pond, but it's dark
-now so I can't really see anything.
-It's really scary...
-There have been numerous reports
-of missing children.
-All guardians: please do not
-leave your children unattended.
-Please do not allow your
-children outside after dark.
-There have been numerous reports
-of missing children.
-All guardians: please do not
-leave your children unattended.
-Please do not allow your
-children outside after dark.
-There's an old note
-scribbled down...
-@Mr. Yomawari catches naughty kids
-
-who don't sleep at night and
-takes them away stuffed in a bag.
-Mr. Yomawari is
-lurking around this town
-in search of naughty kids.@
-
-
-
-There's a flashy poster.
-
-It's a picture of
-a blue penguin dancing.
-I wonder what this is advertising...
-There's a flashy poster.
-
-It's a picture of
-a blue penguin dancing.
-I wonder what this is advertising...
-There's a flashy poster.
-
-It's a picture of
-a blue penguin dancing.
-A vending machine.
-I'm not thirsty right now...
-A vending machine.
-I'm not thirsty right now...
-A vending machine.
-I'm not thirsty right now...
-There's an ad from a store I don't
-know. The paper is soggy... Maybe
-it's wet from the rain.
-There's an ad from a store I don't
-know. The paper is soggy... Maybe
-it's wet from the rain.
-There's an ad from a store I don't
-know. The paper is soggy... Maybe
-it's wet from the rain.
-A bright red postbox.
-I never sent mail, so
-I've never used it before.
-A bright red postbox.
-I never sent mail, so
-I've never used it before.
-A bright red postbox.
-I never sent mail, so
-I've never used it before.
-Looks like I can't go past here...
-Looks like I can't go past here...
-Looks like I can't go past here...
-I'm Miss Mary.
-I'm right behind you.
-Which side do I put the eye in?
-Right
-Left
-Looks like you can dig here.
-You need a shovel to dig...
-Maybe there's one at the sandbox.
-Looks like you can put something here.
-A hole in the fence behind the tree!
-I can go inside from here!
-A door to the pool.
-Do you want to use the key to the pool?
-Door unlocked.
-It's a drainpipe.
-Could the pool be what the
-table-turning was talking about?
-Drain the pool and check the bottom?
-It's a drain.
-Ah! There's something stuck in there!
-Grab it?
-You picked up a shredded swimsuit.
-Looks like it's locked.
-The lock opened!
-I can't go past this.
-Let's keep playing.
-Thanks.
-Move to a different Jizo Statue?
-It's an old, small shrine...
-No one takes care of it and
-it's run down.
-was placed in the postbox.
-Ah, looks like I dropped
-the dull eyeball...
+Mình làm rơi Chìa Khóa
+Chuồng Gà ở bãi rác mất rồi!
+Mình không cố ý làm vậy....
+Chiếc lều làm bằng bìa các tông
+có cảm giác như nó sắp đổ.
+Ai làm nó thế nhỉ....?
+Chiếc lều làm bằng bìa các tông
+có cảm giác như nó sắp đổ.
+Ai làm nó thế nhỉ....?
+Chiếc lều làm bằng bìa các tông
+có cảm giác như nó sắp đổ.
+Ai làm nó thế nhỉ....?
+Cây anh đào lớn nhất trong trường.
+Mọi người nói có ai đó được chôn ở dưới,
+và ai đó đã treo cổ tự sát ở đó,
+và nó bắt đầu chảy máu khi cắt nó.
+Có rất nhiều tin đồn
+về nó
+Cây anh đào lớn nhất trong trường.
+Mọi người nói có ai đó được chôn ở dưới,
+và ai đó đã treo cổ tự sát ở đó,
+và nó bắt đầu chảy máu khi cắt nó.
+Có rất nhiều tin đồn
+về nó
+Cây anh đào lớn nhất trong trường.
+Mọi người nói có ai đó được chôn ở dưới,
+và ai đó đã treo cổ tự sát ở đó,
+và nó bắt đầu chảy máu khi cắt nó.
+Có rất nhiều tin đồn
+về nó
+Hửm?
+Có gì đó được chôn dưới đây.....
+.... A đó là 1 cái hộp thời gian!
+..... mình sẽ đặt nó về nơi nó thuộc về.
+Hửm?
+Có gì đó được chôn dưới đây.....
+.... A đó là 1 cái hộp thời gian!
+..... mình sẽ đặt nó về nơi nó thuộc về.
+Hửm?
+Có gì đó được chôn dưới đây.....
+.... A đó là 1 cái hộp thời gian!
+..... mình sẽ đặt nó về nơi nó thuộc về.
+Lò đốt này đã lâu không
+được sử dụng nữa.
+Mình có chìa khóa từ Bãi Rác,
+Nhưng mình không mở được nó.
+Lò đốt này đã lâu không
+được sử dụng nữa.
+Mình có chìa khóa từ Bãi Rác,
+Nhưng mình không mở được nó.
+Lò đốt này đã lâu không
+được sử dụng nữa.
+Mình có chìa khóa từ Bãi Rác,
+Nhưng mình không mở được nó.
+Trung tâm mua sắm sắp thi công
+Chúng tôi khuyên ai sống gần khu
+vực thi công hãy di dời ngay.
+Trung tâm mua sắm sắp thi công
+Chúng tôi khuyên ai sống gần khu
+vực thi công hãy di dời ngay.
+Trung tâm mua sắm sắp thi công
+Chúng tôi khuyên ai sống gần khu
+vực thi công hãy di dời ngay.
+Có 1 ghi chú trên màn trập đã
+đóng ghi chúng tôi sẽ quay lại
+Nhưng mình chưa thấy cừa hàng này
+mở cửa trong cuộc đời mình.
+Có 1 ghi chú trên cửa cuốn đã
+đóng ghi chúng tôi sẽ quay lại
+Nhưng mình chưa thấy cửa hàng này
+mở cửa trong cuộc đời mình.
+Có 1 ghi chú trên cửa cuốn đã
+đóng ghi chúng tôi sẽ quay lại
+Nhưng mình chưa thấy cửa hàng này
+mở cửa trong cuộc đời mình.
+Cửa cuốn này luôn đóng
+kể cả vào ban ngày.
+Nó bị rỉ sét bởi vì
+không ai mở nó chăng?
+Cửa cuốn này luôn đóng
+kể cả vào ban ngày.
+Nó bị rỉ sét bởi vì
+không ai mở nó chăng?
+Cửa cuốn luôn đóng cả ban ngày.
+Cửa cuốn luôn đóng cả ban ngày.
+Nó bị rỉ sét bởi vì
+không ai mở nó chăng?
+Cửa cuốn lớn đã đóng.
+Nó không mở vào ban đêm.
+Cửa cuốn lớn đã đóng.
+Nó không mở vào ban đêm.
+Cửa cuốn lớn đã đóng.
+Nó không mở vào ban đêm.
+Người phụ nữ trẻ bị mất tích
+gần đoạn đường phía Bắc
+ngang qua cánh đồng lúa.
+
+Nếu ai có bất kỳ thông tin gì
+hãy liên hệ đến sđt bên dưới.
+Người phụ nữ trẻ bị mất tích
+gần đoạn đường phía Bắc
+ngang qua cánh đồng lúa.
+
+Nếu ai có bất kỳ thông tin gì
+hãy liên hệ đến sđt bên dưới.
+Có miếng ghi chú nhỏ ở đây.
+.... đọc nó nào
+Một cụ già bị 1 chiếc xe ô tô đâm
+khi đang đi tới 1 ngôi đền.
+Chiếc xe hoàn toàn cán nát ông ấy.
+Để lại dấu trên lan can bảo vệ
+Người ta đồn rằng cụ vẫn ở
+đâu đó và chờ đợi.......
+CẢNH BÁO
+PHÍA TRƯỚC CÓ VỰC
+CẢNH BÁO
+PHÍA TRƯỚC CÓ VỰC
+.... không có gì ở đây.
+Một người phụ nữ
+trẻ đã mất tích.
+Có khả năng cô ấy
+đã rơi xuống vực,
+Quá trình tìm kiếm đang đình
+trệ do sạc lở đất.
+Một người phụ nữ
+trẻ đã mất tích.
+Có khả năng cô ấy
+đã rơi xuống vực,
+Quá trình tìm kiếm đang đình
+trệ do sạc lở đất.
+.... không có gì ở đây.
+Một người phụ nữ
+trẻ đã mất tích.
+Việc tìm kiếm đã tạm dừng.
+
+Có khả năng cô ấy
+đã rơi xuống vực,
+Theo xác nhận cho biết công tác
+cứu hộ sẽ gặp nhiều nguy hiểm.
+Các nỗ lực cứu hộ đã tạm dừng.
+Một người phụ nữ
+trẻ đã mất tích.
+Việc tìm kiếm đã tạm dừng  
+
+Có khả năng cô ấy
+đã rơi xuống vực,
+Theo xác nhận cho biết công tác
+cứu hộ sẽ gặp nhiều nguy hiểm.
+Các nỗ lực cứu hộ đã tạm dừng.
+S   Á   T        N  H  Â  N
+Mình thấy t.trấn nhưng không thấy bầu trời
+Quá tối để có thể thấy trăng và sao.
+Mình thấy khói từ nhà máy đã ngưng
+Mình thấy t.trấn nhưng không thấy bầu trời
+Quá tối để có thể thấy trăng và sao.
+Mình thấy khói từ nhà máy đã ngưng
+Mình thấy t.trấn nhưng không thấy bầu trời
+Quá tối để có thể thấy trăng và sao.
+Mình thấy khói từ nhà máy đã ngưng
+Nó là 1 cái ao đẹp nhưng nó tăm tối.
+Mình thật sự không thể thấy gì.
+Ghê ghê sao ấy......
+Nó là 1 cái ao đẹp nhưng nó tăm tối.
+Mình thật sự không thể thấy gì.
+Ghê ghê sao ấy......
+Nó là 1 cái ao đẹp nhưng nó tăm tối.
+Mình thật sự không thể thấy gì.
+Ghê ghê sao ấy......
+Đã có nhiều báo cáo của
+nhiều đứa trẻ mất tích.
+Giám hộ không nên bỏ mặc
+con em của mình.
+Vui lòng không cho phép con
+bạn ra ngoài vào ban đêm.
+Đã có nhiều báo cáo của
+nhiều đứa trẻ mất tích.
+Giám hộ không nên bỏ mặc
+con em của mình.
+Vui lòng không cho phép con
+bạn ra ngoài vào ban đêm.
+Một ghi chú cũ
+viết nguyệch ngoạc....
+Ngài Yomawari bắt đứa trẻ hư
+
+Những ai ban đêm không chịu ngủ
+và sẽ nhốt chúng vào 1 cái bao.
+Ngài Yomawari đang
+ẩn nấp quanh thị trấn để
+bắt những đứa trẻ hư
+６話掲示板左チェック
+６話掲示板右チェック
+６話掲示板奥チェック
+Một tấm áp phích hào nhoáng.
+
+Đó là tấm ảnh của chim cánh cụt
+màu xanh đang nhảy múa.
+....quảng cáo gì vậy trời?
+Một tấm áp phích hào nhoáng.
+
+Đó là tấm ảnh của chim cánh cụt
+màu xanh đang nhảy múa.
+....quảng cáo gì vậy trời?
+Một tấm áp phích hào nhoáng.
+
+Đó là tấm ảnh của chim cánh cụt
+màu xanh đang nhảy múa.
+Máy bán hàng tự động
+Mình không thấy khát....
+Máy bán hàng tự động
+Mình không thấy khát....
+Máy bán hàng tự động
+Mình không thấy khát....
+Đó là quảng cáo về cửa hàng mà
+mình không biết, giấy đã ướt
+có lẽ do trời mưa....
+Đó là quảng cáo về cửa hàng mà
+mình không biết, giấy đã ướt
+có lẽ do trời mưa....
+Đó là quảng cáo về cửa hàng mà
+mình không biết, giấy đã ướt
+có lẽ do trời mưa....
+Thùng thư màu đỏ tươi.
+Mình không gửi thư nên mình
+chưa từng dùng nó trước đây.
+Thùng thư màu đỏ tươi.
+Mình không gửi thư nên mình
+chưa từng dùng nó trước đây.
+Thùng thư màu đỏ tươi.
+Mình không gửi thư nên mình
+chưa từng dùng nó trước đây.
+Có vẻ mình không thể qua đây....
+Có vẻ mình không thể qua đây....
+Có vẻ mình không thể qua đây....
+Mình nhớ Mary
+Mình luôn dõi theo bạn
+Mình nên đặt mắt bên nào?
+Phải
+Trái
+Có vẻ bạn có thể đào ở đây.
+Bạn cần xẻng để đào
+Chắc sẽ có ở bãi cát?
+Có vẻ bạn có thể cho gì đó vào.
+Một cái lỗ trên hàng rào phía sau cái cây!
+Mình có thể vào trong từ đây!
+Cửa dẫn tới hồ bơi
+Dùng chìa khóa hồ bơi?
+Cửa mở
+Ống thoát nước
+Hồ bơi có thể là nơi
+mà bàn xoay đề cập?
+Xả nước và kiểm tra đáy hồ?
+Có 1 cái cống.
+A! Có gì đó kẹt ở đây!
+Lấy nó?
+Nhận được Đồ Bơi Rách
+Có vẻ nó đã khóa.
+Đã mở khóa!
+Có vẻ không thể qua đây.
+Chơi tiếp thôi.
+Cảm ơn.
+Di chuyển tới tượng Jizo khác?
+Một ngôi đền nhỏ cũ kỹ...
+Không ai chăm sóc và
+nó đang xập xệ
+đã đặt trong hộp thư.
+A, co vẻ mình đã làm rơi
+Nhãn Cầu Yếu....
 Yay!
-Now I have all the puzzle pieces!
-Listen to music on the radio?
-I can't use this...
-I've been walking around the town
-looking for the puzzle pieces, so
-I finally finished my map!
-This thing won't work here...
-Your left eye... Does it hurt?
-I'm sorry, you did that for me...
-...Thanks for helping me.
-You pick up a lot of stuff...
-Don't take anything that's not yours.
-You're going out again?
-Come home soon. I worry about you...
-Should I buy some new shoes...?
-I feel a presence when
-I'm in this room.
-I wonder who it is...
-It doesn't seem evil...
-I wonder what it's doing here...
-Why does this town have so
-many spirits...?
-That lady who went missing in the
-rice field turned up dead...
-I heard her corpse was found and
-sent back to her family.
-They arrested the murderer, too.
-It's kinda relieving...
-The mountain spirit that took me
-away was supposed to be a god once...
-Everyone in the town praised it.
-But, why did it kidnap me...?
-I don't have to be scared
-of that spirit anymore...?
-Downtown is going to be totally
-bulldozed before winter.
-...Huh? Will the shrine downtown
-be taken down too?
-Yeah, looks like the shrine is
-going to be taken down too...
-It's sad without Poro...
-Poro wasn't mad, right?
-He's probably waiting for us in heaven,
-so let's play with him when we get there.
-Take care. Go...
-You've got so many parts now.
-If you get it repaired, it seems like
-it could work... What do you wanna do?
-Alright.
-Okay, it'll be fixed by tomorrow.
-It's been fixed!
-Those were parts to the radio.
-See, it's over there.
-All the parts I had made a radio!
-Night Town.
-Sis went out to go look for Poro,
-who ran away.
-But, Sis didn't come back either...
-I decided to go out there myself and
-search for Poro and Sis.
-They shouldn't be that far away.
-Sis's shoe.
-I remember her putting this on. She
-wore this on the day she left.
-Is she only wearing one shoe right now?
-I have no clue where Sis went, but
-I have to find her.
-I should start at the rice fields...
-Alone.
-Why are all the spirits scaring me?
-I just want to see my Sis.
-I'm sad because I can't be with her.
-...But, the spirits that have died
-must be lonely, too...
-I should be a little nicer to them.
-I buried Poro.
-Poro died because of me.
-I couldn't tell Sis about him.
-If I didn't throw the rock,
-if I was able to tell my Sis...
-What should I do? What should I do...?
-Sis, will you be okay?
-About the spirits.
-I found so many scary things in town.
-How many more times will I have
-to be so afraid?
-Will it be even scarier than ever?
-But, I think Sis dying is more
-scary than anything.
-The Night Walker.
-Sis told me she was kidnapped by the
-spirit that walks around town at night.
-Sis held her charm so tight that
-it's all worn out.
-But, if I hold it tight enough,
-it makes my feelings warm.
-Night Alone.
-The night is coming to town.
-It will come even if Sis isn't here,
-or Poro, or even if
-I'm not here.
-The night will come, and the morning
-will follow, then the night again.
-
-
-
-
-
-
-
+Giờ mình đã có tất cả mảnh ghép!
+Nghe nhạc trên radio?
+Mình không thể dùng nó...
+Mình sẽ dạo xung quanh thị trấn
+và thu thập những mảnh ghép.
+Cuối cùng mình cũng xong bản đồ!
+Thứ này không dùng được ở đây...
+Mắt phải của em... có đau không?
+Chị xin lỗi, em đã làm điều đó vì chị...
+.... cảm ơn đã giúp chị.
+Em đã nhặt được nhiều thứ...
+Đừng lấy thứ gì không phải của mình.
+Em lại ra ngoài sao?
+Về nhà sớm nha, chị lo lắm đó....
+Mình có nên mua giày mới....
+Mình cảm thấy sự hiện diện khi
+Mình trong căn phòng này
+Là ai mới được chứ...
+Nó có vẻ không có ý xấu...
+Nó đang làm gì ở đây....
+Tại sao thị trấn này quá nhiều
+linh hồn đến vậy.....
+Người phụ nữ mất tích trên
+cánh đồng lúa đã chết...
+Mình nghe nói đã tìm thấy thi
+thể và gửi lại cho gia đình.
+Họ cũng đã bắt được hung thủ.
+Thật là nhẹ nhõm...
+Linh hồn ở ngọn núi dẫn mình đi
+chắc từng là một vị thần
+Mọi người trong thị trấn đều khen ngợi nó
+Nhưng sao nó lại bắt cóc mình....
+Mình không cần phải sợ
+linh hồn đó nữa....?
+Trung tâm thành phố sẽ bị san bằng
+hoàn toàn trước mùa đông.
+....Hử ?.... Liệu ngôi đền ở trung tâm
+thành phố có bị gỡ xuống không...?
+Ừm, có vẻ ngôi đền
+cũng bị dỡ xuống
+Thật buồn khi không có Poro...
+Poro không bị điên phải không?
+Nó chắc đang đợi ta trên thiên đường
+thế nên ta sẽ chơi với nó khi đến đó.
+Hãy bảo trọng, đi thôi....
+Giờ bạn có rất nhiều mảnh
+Giờ bạn sửa nó thì có thể nó sẽ
+hoạt động... bạn sẽ làm gì?
+Được rồi.
+Nó sẽ khôi phục vào ngày mai thôi.
+Nó đã khôi phục!
+Đó là những mảnh của Radio.
+Thấy chưa, nó ở đằng kia.
+Với các mảnh mình đã làm 1 radio!
+Phố Về Đêm.
+Poro đã chạy đi mất
+nên chị đã ra ngoài tìm.
+Nhưng, chị đã không quay lại.
+Mình sẽ ra ngoài đó
+tìm Poro và Chị
+Họ chắc không đi xa đâu.
+Giày của chị
+Mình nhớ là chị ấy đã mang
+chiếc giày này khi rời đi.
+Giờ chị ấy chỉ mang 1 chiếc giày....
+Mình không biết chị đang ở đâu
+Mình cần phải tìm chị ấy
+Chắc mình nên tìm từ đồng lúa...
+Một mình
+Tại sao các linh hồn lại sợ mình?
+Mình chỉ muốn gặp lại chị.
+Mình buồn khi không ở bên chị ấy
+... nhưng những linh hồn đã chết
+cũng đang rất cô đơn...
+Mình nên đối xử tốt hơn với họ.
+Mình đã chôn Poro.
+Poro chết là do mình
+Mình đã không nói chị biết điều đó.
+Nếu mình không ném hòn đá
+Nếu mình có thể nói với chị..
+Mình phải làm gì đây....
+Chị ơi, chị vẫn ổn chứ....?
+Về những linh hồn
+Mình thấy nhiều thứ đáng sợ trong thị trấn.
+Mình phải sợ hãi bao nhiêu lần nữa?
+Nó thậm chí còn
+đáng sợ hơn sao?
+Nhưng thứ mình sợ hơn hết là
+mất đi người chị thân yêu
+Người Gác Đêm
+Chị nói mình rằng chị bị bắt cóc
+bởi những linh hồn quanh thị trấn.
+Chị giữ chặt lá bùa của mình
+tới mức nó bị sờn.
+Nhưng nếu mình giữ nó đủ chặt
+nó sẽ khiến mình cảm thấy ấm áp
+Đêm Đơn Độc
+Màn đêm sắp bao trùm thị trấn.
+Nó sẽ đến kể cả chị không ở đây
+hoặc Poro, hoặc thậm ngay cả
+Mình không ở đây.
+Đêm sẽ xuống rồi tới ngày
+và rồi lại đêm.
+にっきそのはちタイトル
+にっきそのはちイチぎょうめ
+にっきそのはちニぎょうめ
+にっきそのはちサンぎょうめ
+にっきそのはちヨンぎょうめ
+にっきそのはちゴぎょうめ
+にっきそのはちロクぎょうめ
 LH
 LEAD
-Find Sis.
-Go back home.
-Find Sis and Poro.
-Look for a secret path to the school.
-Follow Poro.
-Get Sis's shoe from the human-faced dog.
-Search the rice fields.
-Follow Poro.
-Search downtown.
-Search for an exit.
-Place the salt back where it was.
-Talk to the centipede spirit.
-Search for a way to get outside.
-Go toward the tunnel.
-Find Sis.
-Search the town.
-Help Sis!
-...Poro, l-let's go back...
-We're going, Poro.
-Use the directional buttons to move.
-Let's not go that way...
-Hold the $5 to run.
-Hold the $6 to tiptoe.
-If she sees an interactable object, a
-? will appear on top of her head.
-When you get close to the object,
-the ? will turn into an !.
-Press $2 while
-! is shown to perform the action.
-Hey, a pebble!
-The action will change depending
-on what you interact with.
-You can interact with many things.
-Press $4 to select an item.
-Confirm with $2, $4, $3, or $1.
-Press $3 to use the item.
-Where's Poro...?
-Did Poro run away!?
-I'll go look for him!
-Stay here.
-I'll be right back.
-Okay? It's a promise.
-I'll be just fine,
-I'll find him on my own.
-Sis... It's getting late...
-I'm gonna go look for her!
-Welcome back... Huh?
+おねTìm Chị
+Quay về nhà
+Tìm Chị và Poro
+Tìm đường bí mật tới trường
+Đuổi theo Poro.
+Lấy giày của Chị từ chó-mặt người
+Tìm Cánh Đồng Lúa
+Đuổi theo Poro
+Tìm Trung Tâm Thành Phố
+Tìm Lối Thoát
+Đặt muối lại chỗ cũ
+Nói chuyện với Linh Hồn Rết
+Tìm đường để ra bên ngoài
+Đi về phía Đường Hầm
+Tìm Chị
+Tìm Thị Trấn
+Cứu Chị!
+...Poro, quay lại nào
+Đi nào, Poro
+Di chuyển bằng phím điều hướng
+Đừng đi hướng đó...
+Chạy bằng cách vừa đi vừa nhấn $5
+Đi Rón Rén bằng cách vừa đi vừa nhấn $6
+Nếu cô bé thấy đối tượng có thể tương tác
+dấu ? sẽ xuất hiện trên đầu cô bé
+Khi bạn đến gần đối tượng
+dấu ? sẽ thành dấu !
+Khi hiện dấu !
+nhấn nút $2 để hành động.
+Là một hòn đá.
+Hành động sẽ thay đổi tùy
+đối tượng bạn tương tác
+Bạn có thể tương tác nhiều thứ.
+Nhấn $4 để lựa chọn vật phẩm.
+Xác nhận với $2、$4、$3、$1
+Nhấn $3 để sử dụng
+Poro đâu rồi?
+Poro chạy mất rồi hả.....?
+Chị sẽ đi tìm nó!
+Ở yên đây.
+Chị sẽ sớm quay về thôi....
+Được chứ? Chị hứa.
+Chị sẽ ổn thôi.
+Chị sẽ tìm nó một mình.
+Chị.... đã quá muộn rồi....
+Mình phải tìm chị!
+Mừng em đã về..... hử?
 !!!
-You scared me! Did you come looking for me?
-...
-...Come here.
-Hide in these bushes,
-close your eyes, and
-do *not* open them
-no matter what happens.
-Do *NOT* open them!
-Do you understand?
-...Sis?
+Em làm chị sợ! Em đi tìm chị hả?
+.................................
+........... đến đây
+Trốn trong bụi cây này,
+Nhắm chặt mắt và
+không được MỞ dù
+có chuyện gì xảy ra.
+Không được MỞ mắt.
+Hiểu chứ?
+...... Chị?
 
-Press $2.
-...Sis?
-Did you come looking for me?
-Is this...Sis's...?
-Let me turn the lights on...
-Found a flashlight.
-It's a Jizo Statue...
-If you offer a coin to the Jizo Statue,
-Is there anything I can offer...?
-you can quicksave.
-I'll give the Jizo Statue an offering.
-Sis?
-Sis...
-Sis isn't here...
-Pick up the pebble.
-Did Sis go home already?
-Let's go home.
-Open the map with $7.
-Ah!
-...Poro!?
-This doesn't open...
-Can I get inside
-somewhere else?
-I should look around a bit.
-It's Sis's shoe...
-But why is it here?
-...That wasn't Poro.
-Ah!
-I forgot about
-Sis's shoe!
-I have to go get it!
-
-
-Maybe I can distract it with something.
-It didn't like what I put there...
-What should I put there?
-It took the wet bone!
-It's gone...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Looks like it's locked...
-The lock opened!
-It won't open.
-It's Sis's shoe...
-To SAVE your progress,
-you must save at the DESK.
-I have to run...
-Is that a phone ringing...?
-D-Don't eat me!
-A phone is ringing again...
-...Th-That was scary...
-...Huh? When did I get
-salt in my hand?
-Maybe it means I'm supposed to put it
-back where it was in the first place.
-I put all the salt in the right spots.
-I should go tell that
-to the centipede spirit.
-The centipede spirit isn't here...
-It wasn't such a bad spirit...
-...Poro?
-I hear a dog barking!
-It might be Poro!
-It's Poro's collar...
-I'm sorry, Poro...
-...It's Poro!
-Poro, wake up!
-Wake up, wake up!
-...Wake up...
-Poro, let's go home...
-Poro, please wake up...
-Poro...
-...
-...Where am I?
-...I have to find the exit.
-...It won't open.
-It's a big container...
-Maybe I can hide inside it.
-There's a lock, I can't get it open.
-Used the Rusty Small Key.
-The spirit from the mountain...
-This is...
-Sis's charm...
-...Sis...
-There's something on the other side,
-but the bridge is broken...
-Can I get over there with something?
-Picked up the Black Note.
-Let's read the note.
-It's gonna kill me, help me, help!!!
-Help, help, help, help, help, help!!!
-...Why do *I* have to die?
-HELP ME HELP ME PLEASE
-There's something wrong
-with the flashlight...
-The flashlight is
-back to normal now.
-...?
-This is...
-Put the Necklace down.
-It's so foggy...
-I shouldn't go in there right now...
-A little shrine...
-Huh?
-Sis's charm is glowing!
-Maybe I should lift it up...
-It's so foggy...
-I shouldn't go in there right now...
-Sis is just past here...
-Sis!
-Sis?
-...Sis...
-Don't die,
-Sis.
-...
-...Hm...?
-Sis!!!
-Are you okay!?
-I came to look for you!
-Let's go home...
-...Sis...
-I was so scared...
-...I was so lonely, Sis...
-...Let's go home together, please...
-Huh...?
-Uh...
-What is this? It feels weird...
-Uh...
-...It's so dark.
-...Like midnight.
-Light... I have to turn the light on...
-It's dark, I can't see anything...
-...
-...
+Nhấn $2
+..... Chị?
+Chị đang đến tìm em sao?
+Là.... Chị sao......?
+Để em bật đèn nha.....
+Nhận Đèn Pin
+Đó là tượng Jizo
+Nếu bạn cúng dường Jizo 10 yên
+Vậy mình được gì khi cúng dường...
+Bạn có thể lưu nhanh
+Mình sẽ cúng dường cho Jizo
+Chị?
+Chị
+Chị không ở đây...
+Nhặt hòn đá
+Chắc chị về nhà rồi nhỉ?
+Về nhà thôi.
+Xem bản đồ bằng nút $7
+A!
+..... Poro!?
+Nó không mở....
+Mình có thể vào trong
+bằng đường khác không nhỉ?
+Mình nên tìm xung quanh 1 chút
+Đó là giày của chị...
+Nhưng sao nó ở đây?
+.... Đó không phải là Poro
+Ah
+Giày của Chị...
+Mình quên mất
+Phải quay lại thôi
+Mình phải lấy lại nó....
+Có lẽ mình phải tìm cách
+đánh lạc hướng nó?
+Có vẻ không thích hợp đặt ở đây
+Mình nên đặt gì đây?
+Nó đã lấy Xương Ướt!
+Nó đi rồi....
+Hồn ơi
+Bạn muốn dùng 10 yên?
+Có
+Không
+Hồn ơi
+Hồn ơi
+Có ai không
+..........................
+!
+10 yên
+Nó đang chuyển động!
+Mi
+Zu
+No
+So
+Ko
+Ý là gì thế nhỉ....
+Hồn ơi, hồn ơi
+Chào mừng quay lại
+Tôi
+Đây
+............ 10 yên
+Nó đã ngừng.....
+Mình không thể làm vì không có 10 yên
+Có vẻ như nó đã khóa....
+Mở khóa!
+Nó không mở
+Đó là giày của chị....
+Khi bạn lại gần bàn
+bạn có thể lưu tiến trình
+Mình phải chạy thôi....
+Đó là tiếng chuông điện thoại....
+Đừng ăn tôi....
+Tiếng chuông điện thoại lại reo....
+..... Nó thật đáng sợ.. .
+.... Hử? Từ khi nào mà muối
+lại lằm trong tay mình vậy
+Nghĩa là mình phải
+đặt nó về chỗ cũ?
+Mình đã đặt muối đúng chỗ
+Mình phải đi báo lại
+với Linh Hồn Rết
+Linh Hồn Rết không có ở đây....
+Nó không phải là 1 linh hồn xấu....
+........... Poro?
+Mình nghe tiếng chó sủa...
+Đó chắc chắn là Poro!
+Đó là vòng cổ Poro....
+Poro, chị xin lỗi... 
+....  là Poro!
+Poro, tỉnh lại đi!
+Tỉnh lại đi, tỉnh lại đi
+............... tỉnh lại đi mà
+Poro, về nhà thôi.
+Poro, dậy đi nào.
+Poro......................................
+..............................................
+...................... Đây là đâu
+..................... mình phải tìm lối ra
+..................... nó không mở
+Nó là 1 container lớn......
+Có thể mình trốn được bên trong
+Nó đã khóa, mình không mở được.
+Dùng Chìa Khóa Rỉ Nhỏ
+Linh hồn từ ngọn núi.............
+Đó là.............
+Bùa của chị ...............
+............. chị
+Có gì đó ở phía bên kia
+nhưng cầu đã gãy............
+Mình có thể dùng gì để qua đó không?
+Nhận được Ghi Chú Màu Đen
+Hãy đọc ghi chú
+Nó muốn giết tôi, cứu tôi, cứu!!!
+Cứu tôi, cứu tôi, cứu tôi, cứu tôi, cứu tôi!!!!
+.......... tại sao TÔI phải chết chứ?
+LÀM ƠN CỨU TÔI VỚI
+Có gì đó không ổn
+với đèn pin...
+Giờ đèn pin lại
+bình thường rồi.
+..................?
+.......đó là.........?
+Đặt Vòng Cổ Rách xuống
+Trời bắt đầu trở sương....
+Mình không nên ở đây nữa
+Một cái đền nhỏ
+Hử?
+Bùa của chị đang phát sáng!
+Có lẽ mình phải thắp nó lên?
+Trời bắt đầu trở sương....
+Mình không nên ở đây nữa
+Chị vừa đi qua đây.......
+Chị!
+Chị?
+.... ............ ......... chị
+Đừng chết mà
+Chị...............................
+...............................
+............hử.........?
+Chị!!
+Chị không sao chứ?
+Em đến tìm chị đây!
+Về nhà thôi........
+....... chị ........
+Em sợ lắm .......
+........ em sợ cô đơn, chị..........
+........ hãy về nhà với em.....
+Hử......?
+Ừm.....
+Chuyện gì vậy, có gì lạ lắm....
+Ừm...........
+....... tối quá
+Như nửa đêm vậy......
+Đèn pin...... mình cần bật đèn pin.....
+Tối quá không nhìn thấy gì ........
+......................
+.......
